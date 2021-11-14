@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Juste Djabakou"
-  avatar           : "/assets/images/bio-photo_.jpg"
+  avatar           : "/assets/images/bio_photo_.jpg"
   bio              : "Université de Montréal"
   location         : "Montréal, Canada"
   email            : "juste.djabakou@umontreal.ca"
