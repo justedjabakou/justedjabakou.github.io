@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Ait Lahcen"
+title                    : "Juste Djabakou"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohammed Ait Lahcen"
-description              : "Personal website of Mohammed Ait Lahcen."
+name                     : "Juste Djabakou"
+description              : "Personal website of Juste Djabakou."
 url                      : https://justedjabakou.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : justedjabakou/justedjabakou.github.io
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammed Ait Lahcen"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Qatar University and University of Basel"
-  location         : "Doha, Qatar"
-  email            : "m.aitlahcen@gmail.com"
+  name             : "Juste Djabakou"
+  avatar           : "/assets/images/bio-photo_.jpg"
+  bio              : "Université de Montréal"
+  location         : "Montréal, Canada"
+  email            : "juste.djabakou@umontreal.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
