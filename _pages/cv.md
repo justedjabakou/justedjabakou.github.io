@@ -7,6 +7,7 @@ sitemap: true
 permalink: /cv
 ---
 
+[Full CV](){: .btn}
 
 
 Education
