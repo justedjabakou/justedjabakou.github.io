@@ -8,16 +8,6 @@ permalink: /cv
 ---
 
 
-<h1 align="center">Juste Djabakou</h1>
-<p 
-align="center"> 
-Personal : <a href="mailto:justedjabakou@gmail.com" target="_top">justedjabakou@gmail.com</a> 
-<br>
-Institutionnal : <a href="mailto:juste.djabakou@umontreal.ca" target="_top">juste.djabakou@umontreal.ca</a>
-<br>
-<a href="https://justedjabakou.github.io">justedjabakou.github.io</a> 
-</p>
-
 
 Education
 ======
