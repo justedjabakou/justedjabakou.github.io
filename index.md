@@ -4,11 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-**Welcome to my website!**
+**Welcome to my personal website!**
 
-I am an 3rd PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
+My name is Juste Djabakou, I am an 3rd PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
 
-My research interests lie at the intersection of Macroeconomics and Finance . My works emphasize on the macroeconomic implications of firm heterogeneity and its interactions with the financial sector.
+My research interests lie at the intersection of Macroeconomics and Finance. My works emphasize on the macroeconomic implications of firm heterogeneity and its interactions with the financial sector.
 
 Before joining Montréal, I graduated from [ENSAE de Dakar](http://ensae.sn/) as *Ingénieur Statisticien Economiste - ISE* and before that from [ENSEA d'Abidjan](https://ensea.ed.ci/) as *Ingénieur des Travaux Statistiques - ITS*. I'm a kind of a 'old'-'matheux' as I've done a Bachelor in Mathematics Science at [Université de Lomé](https://www.univ-lome.tg/), in my sweet home country Togo.
 
