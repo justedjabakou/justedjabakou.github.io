@@ -3,11 +3,5 @@ main:
   - title: "CV"
     url: /cv
 
- # - title: "Research"
- #   url: /research
-
   - title: "Teaching"
     url: /teaching
-
- # - title: "Code"
- #   url: /nb
