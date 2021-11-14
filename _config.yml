@@ -118,7 +118,7 @@ author:
         # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
         # s pour solid, r regular, l pour light, d pour duotone
         # url: mailto:juste.djabakou@umontreal.ca
-       color: "red"
+      color: "red"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
