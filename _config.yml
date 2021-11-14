@@ -115,7 +115,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:juste.djabakou@umontreal.ca
+      color:"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
+        # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
+        # s pour solid, r regular, l pour light, d pour duotone
+        # url: mailto:juste.djabakou@umontreal.ca
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
