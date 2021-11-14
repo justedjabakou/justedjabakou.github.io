@@ -1,5 +1,5 @@
 ---
-title: "Code"
+title: "CV"
 layout: single
 classes: wide
 excerpt: "My Resume page"
