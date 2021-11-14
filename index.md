@@ -6,10 +6,10 @@ author_profile: true
 
 **Welcome to my website!**
 
-I am an Assistant Professor of Economics at the [Department of Finance and Economics](http://www.qu.edu.qa/business/academic-departments/finance) of Qatar University and a Research Fellow at the [Economic Theory Group](https://wwz.unibas.ch/en/economictheory/) of the University of Basel.
+I am an 3rd PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
 
-My research interests lie in the field of macroeconomics and monetary economics with a particular emphasis on frictional and segmented markets.
+My research interests lie at the intersection of Macroeconomics and Finance . My works emphasize on the macroeconomic implications of firm heterogeneity and its interactions with the financial sector.
 
-I obtained my PhD in Economics from the University of Basel in 2019. Before joining Qatar University, I was a Postdoctoral Researcher at the Department of Economics of Washington University in St. Louis.
+Before joining Montréal, I graduated from [ENSAE de Dakar](http://ensae.sn/) as *Ingénieur Statisticien Economiste - ISE* and before that from [ENSEA d'Abidjan](https://ensea.ed.ci/) as *Ingénieur des Travaux Statistiques - ITS*. I'm a kind of a 'old'-'matheux' as I've done a Bachelor in Mathematics Science at [Université de Lomé](https://www.univ-lome.tg/), in my sweet home country Togo.
 
 On this website you can find my detailed CV as well as an overview of my work.
