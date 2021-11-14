@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mohammed Ait Lahcen"
 description              : "Personal website of Mohammed Ait Lahcen."
-url                      : https://maitlahcen.github.io
+url                      : https://justedjabakou.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : maitlahcen/maitlahcen.github.io
+repository               : justedjabakou/justedjabakou.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/maitlahcen"
+      url: "https://github.com/justedjabakou"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/maitlahcen/"
+      url: "https://www.linkedin.com/in/justedjabakou/"
 
 # Site Footer
 footer:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/maitlahcen"
+      url: "https://github.com/justedjabakou"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
