@@ -1,11 +1,12 @@
 ---
-layout: archive
-title: ""
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Code"
+layout: single
+classes: wide
+excerpt: "My Resume page"
+sitemap: true
+permalink: /cv
 ---
+
 
 {% include base_path %}
 
