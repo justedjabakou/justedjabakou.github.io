@@ -8,10 +8,6 @@ permalink: /cv
 ---
 
 
-{% include base_path %}
-
-[Full CV](){: .btn}
-
 <h1 align="center">Juste Djabakou</h1>
 <p 
 align="center"> 
