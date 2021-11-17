@@ -8,7 +8,7 @@ author_profile: true
 
 <br/>
 <p align = "justify"> 
-I am a PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).  My advisor is [Immo Schott](https://sites.google.com/site/immoschott/).
+I am a PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).  <br /> My advisor is [Immo Schott](https://sites.google.com/site/immoschott/).
 
 **My research** interests lie at the intersection of Macroeconomics and Finance. <br /> My works emphasize on the macroeconomic implications of firm heterogeneity and its interactions with the financial sector.
 
