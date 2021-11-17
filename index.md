@@ -4,7 +4,9 @@ classes: wide
 author_profile: true
 ---
 <br/><br/>
+<p align = center>
 **Welcome to my personal website!**
+</p>
 
 <br/>
 I am a PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).  <br /> My advisor is [Immo Schott](https://sites.google.com/site/immoschott/).
