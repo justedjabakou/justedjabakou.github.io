@@ -114,7 +114,7 @@ author:
   location         : "Montréal, Canada"
   email            : "juste.djabakou@umontreal.ca"
   links:
-    - label: "Email"
+    - label: "Email me"
       icon: "fas fa-fw fa-envelope-square" #"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
         # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
         # s pour solid, r regular, l pour light, d pour duotone
