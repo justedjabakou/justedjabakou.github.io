@@ -7,6 +7,7 @@ author_profile: true
 **Welcome to my personal website!**
 
 <br/><br/>
+<p align = "justify"> 
 I am a PhD Student in Economics at [Université de Montréal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/). 
 My advisor is [Immo Schott](https://sites.google.com/site/immoschott/).
 
@@ -15,3 +16,4 @@ My advisor is [Immo Schott](https://sites.google.com/site/immoschott/).
 Before joining Montréal, I graduated from [ENSAE de Dakar](http://ensae.sn/) as *Ingénieur Statisticien Economiste - ISE* and before that from [ENSEA d'Abidjan](https://ensea.ed.ci/) as *Ingénieur des Travaux Statistiques - ITS*. I'm a kind of a 'old'-'matheux' as I've done a Bachelor in Mathematics Science at [Université de Lomé](https://www.univ-lome.tg/), in my sweet home country Togo.
 
 On this website you can find my teaching experience, my CV as well as an overview of my works.
+</p>
