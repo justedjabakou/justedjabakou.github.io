@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br/><br/>
 <p align = 'center'>
-**Welcome to my personal website!**
+**Welcome to my personal website !**
 </p>
 
 <br/>
