@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 <br/><br/>
-<p align = center>
+<p align = 'center'>
 **Welcome to my personal website!**
 </p>
 
