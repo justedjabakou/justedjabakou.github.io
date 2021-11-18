@@ -6,4 +6,7 @@ excerpt: "Presentation of my research"
 sitemap: true
 permalink: /research
 ---
-## Building...
+
+## Work in Progress
+
+### Debt Callability and Firm Dynamics
