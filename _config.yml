@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -93,10 +93,11 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  twitter : $twitter
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/justejoseph"
+  - "https://www.linkedin.com/in/juste-djabakou-95907985/"
 
 # Analytics
 analytics:
@@ -112,28 +113,30 @@ author:
   avatar           : "/assets/images/Portrait_DJ.jpg"  # bio_photo_.jpg
   bio              : "PhD Student, Economics, Université de Montréal"
   location         : "Montréal, Canada"
-  email            : "juste.djabakou@umontreal.ca"
+  # email            : "juste.djabakou@umontreal.ca"
   links:
     - label: "Email me"
       icon: "fas fa-fw fa-envelope-square" #"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
         # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
         # s pour solid, r regular, l pour light, d pour duotone
         # url: mailto:juste.djabakou@umontreal.ca
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/juste-djabakou-95907985/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://justedjabakou.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/justedjabakou"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square" #"fab fa-twitter fa-2x" 
       url: "https://twitter.com/justejoseph/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/justedjabakou"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/juste-djabakou-95907985/"
+
+
 
 # Site Footer
 footer:
@@ -146,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/justedjabakou"
+      # url: "https://github.com/justedjabakou"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
