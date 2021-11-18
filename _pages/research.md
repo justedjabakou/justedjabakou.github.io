@@ -9,4 +9,4 @@ permalink: /research
 
 ## Work in Progress
 
-### Debt Callability and Firm Dynamics
+### Paper 1 [Title coming soon] <!-- Debt Callability and Firm Dynamics -->
