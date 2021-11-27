@@ -75,12 +75,10 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: absolute;
-    top: 0;
-    right: 0;
+    position: relative;
+    float: right;
     width: $right-sidebar-width-narrow;
-    margin-right: -1 * $right-sidebar-width-narrow;
-    padding-left: 1em;
+    margin-left: span(0.5 of 12);
     z-index: 10;
 
     &.sticky {
@@ -118,7 +116,7 @@
   display: table-cell;
   vertical-align: top;
   width: 72px;
-  height: 72px;
+  // height: 72px;
 
   @include breakpoint($large) {
     display: block;
