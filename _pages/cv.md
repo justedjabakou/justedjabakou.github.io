@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 2016 - 2018 : Principal Economist @ French Embassy in Sénégal, Dakar    
-2015 : Statistician Economist @ [ANSD](ansd.sn), Dakar   
+2015 : Statistician Economist @ [ANSD](https://www.ansd.sn/index.php), Dakar   
 2014 : Health Data Analyst @ ACONDA-VS, Abidjan
   
 Skills
