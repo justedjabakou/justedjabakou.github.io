@@ -12,7 +12,7 @@ permalink: /cv
 
 Education
 ======
-* Ph.D Student in Economcs, [Université de Montréal](https://sceco.umontreal.ca/), ongoing
+* Ph.D Candidate in Economcs, [Université de Montréal](https://sceco.umontreal.ca/), ongoing
 * M.Sc. in Statistics and Economics (Ingénieur Statisticien Economiste), [ENSAE de Dakar](http://ensae.sn/), 2016
 * M.Sc. in Applied Statistics (Ingénieur des Travaux Statistiques), [ENSEA d'Abidjan](https://ensea.ed.ci/), 2014
 
