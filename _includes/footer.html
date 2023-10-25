@@ -16,42 +16,13 @@
         </ul>
       {%- endif %}
       </div>
+      <div class="footer-col social-links">
+        {%- include social.html -%}
+      </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="footer-col footer-col-2 social-links">
-        <h4>FOLLOW</h4>
-
-        {% for follow in site.footer.follow %}
-          <span class="wrap-link">
-
-            {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
-            <img
-              src="{{ follow_icon_path }}"
-              alt="{{ follow.name | downcase }}"
-            />
-            <a href="{{ follow.link }}">
-              {% if follow.value and follow.value != "" and follow.value != nil %}
-                {{ follow.value }}
-              {% else %}
-                {{ follow.name }}
-              {% endif %}
-            </a>
-          </span>
-
-          {% assign mod = forloop.index | modulo: 2 %} {% if mod == 0 %}
-            <br />
-          {% endif %}
-
-        {% endfor %}
-      </div>
-
-    
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
+    </div>    
 
   </div>
 
