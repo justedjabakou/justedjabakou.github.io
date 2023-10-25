@@ -1,6 +1,3 @@
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
-    <ul class="author__urls social-icons">
-
         {% if author.linkedin %}
             <li>
               <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
@@ -32,5 +29,3 @@
               </a>
             </li>
         {% endif %}
-
-    </ul>
