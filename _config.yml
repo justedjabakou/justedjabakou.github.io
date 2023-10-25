@@ -2,6 +2,31 @@ title: Juste Djabakou
 author:
   name: Juste Djabakou
   email: juste.djabakou@umontreal.ca
+  links:
+    #- label: "Université de Montréal"
+     # icon: "fas fa-university"
+      #url: "https://sceco.umontreal.ca/english/home/"
+    - label: "Email me"
+      icon: "fas fa-fw fa-envelope-square" #"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
+        # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
+        # s pour solid, r regular, l pour light, d pour duotone
+      url: mailto:juste.djabakou@umontreal.ca
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/juste-djabakou/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://justedjabakou.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/justedjabakou"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square" #"fab fa-twitter fa-2x" 
+      url: "https://twitter.com/justejoseph/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+      
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
