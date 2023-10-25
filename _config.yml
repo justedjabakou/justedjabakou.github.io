@@ -6,11 +6,11 @@ author:
     #- label: "Université de Montréal"
      # icon: "fas fa-university"
       #url: "https://sceco.umontreal.ca/english/home/"
-    - label: "Email me"
-      icon: "fas fa-fw fa-envelope-square" #"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
+    #- label: "Email me"
+      # icon: "fas fa-fw fa-envelope-square" #"fas fa-envelope fa-2x" # le 2x c'est la taille, donc 4x c'est plus grand
         # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
         # s pour solid, r regular, l pour light, d pour duotone
-      url: mailto:juste.djabakou@umontreal.ca
+      # url: mailto:juste.djabakou@umontreal.ca
     - label: Linkedin
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/juste-djabakou/"
