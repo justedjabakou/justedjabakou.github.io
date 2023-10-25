@@ -1,7 +1,13 @@
-    {% if author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      {% endif %}
+
+<div class="author__urls-wrapper
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <ul class="author__urls social-icons">
+        {% if author.twitter %}
+            <li>
+              <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+                <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+              </a>
+            </li>
+        {% endif %}
+    </ul>
+</div>
