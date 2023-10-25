@@ -11,19 +11,19 @@ author:
         # je peux mettre "fas fa-envelope" aussi qui est enveloppe pleine
         # s pour solid, r regular, l pour light, d pour duotone
       url: mailto:juste.djabakou@umontreal.ca
-    - label: "Linkedin"
+    - label: Linkedin
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/juste-djabakou/"
-    - label: "Website"
+    - label: Website
       icon: "fas fa-fw fa-link"
       # url: "https://justedjabakou.github.io"
-    - label: "GitHub"
+    - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "https://github.com/justedjabakou"
-    - label: "Twitter"
+    - label: Twitter
       icon: "fab fa-fw fa-twitter-square" #"fab fa-twitter fa-2x" 
       url: "https://twitter.com/justejoseph/"
-    - label: "Facebook"
+    - label: Facebook
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
       
