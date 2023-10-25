@@ -19,22 +19,17 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 <br/><br/>
 <span style="color:#9E0B00;">**More recent** </span>
-<blockquote>  <p align = "justify" style="font-size:88%; margin-top: -1em"> Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023. </p>
-</blockquote>
 
-<blockquote><p align = "justify" style="font-size:88%; margin-top: -1em"> **Conference co-organized:**
-  1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
-</p></blockquote>
+> #### __Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023__   
 
+> #### __Conference co-organized:__
+> ###### 1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
 
 
 
 <!-- 
-> __Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023__   
 
-
-> __Conference co-organized:__  
-> 1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
-
+<blockquote>  <p align = "justify" style="font-size:88%; margin-top: -1em"> Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023. </p>
+</blockquote>
 
 -->
