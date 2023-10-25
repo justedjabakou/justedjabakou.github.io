@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 
 <br/> My works focus on the implications of firm heterogeneity for the macroeconomy.   <!--  and interactions with the financial sector. -->    
-**Research Interest** Macroeconomics, Firm dynamics, Finance
+**Research Interest:** Macroeconomics, Firm dynamics, Finance
 
 
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
