@@ -13,14 +13,16 @@ Numerical Analysis in Economics (PhD & Msc) - Winter 2022.
 Macroeconomic Theory II (undergraduate) - Winter 2022.  
 Macroeconomic Theory I (undergraduate) - Fall 2021, Winter 2022.  
 Data Analysis for Economist (undergraduate) - Fall 2019, Winter 2020, Fall 2020, Winter 2021.
-<br/>
+<br/><br/>
+
 <hr>
 
 ### <span style="color:#00949E;">University of Québec at Montréal (UQAM)</span>
 **Teaching Assistant**  
 Macroeconomics Analysis (undergraduate) - Winter 2019.  
 Microeconomics Analysis (undergraduate) - Fall 2018, Winter 2019.
-<br/>
+<br/><br/>
+
 <hr>
 
 ### <span style="color:#00949E;">Université Cheikh Anta-Diop, Dakar</span>
