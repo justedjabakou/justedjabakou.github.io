@@ -1,5 +1,22 @@
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
+
+        {% if author.linkedin %}
+            <li>
+              <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+                <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+              </a>
+            </li>
+        {% endif %}
+
+        {% if author.github %}
+            <li>
+              <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+                <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+              </a>
+            </li>
+        {% endif %}
+
         {% if author.twitter %}
             <li>
               <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
@@ -12,14 +29,6 @@
             <li>
               <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
                 <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
-              </a>
-            </li>
-        {% endif %}
-
-        {% if author.linkedin %}
-            <li>
-              <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-                <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
               </a>
             </li>
         {% endif %}
