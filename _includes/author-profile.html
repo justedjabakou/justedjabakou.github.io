@@ -1,5 +1,3 @@
-
-<div class="author__urls-wrapper
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
         {% if author.twitter %}
@@ -9,5 +7,21 @@
               </a>
             </li>
         {% endif %}
+
+        {% if author.facebook %}
+            <li>
+              <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+                <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+              </a>
+            </li>
+        {% endif %}
+
+        {% if author.linkedin %}
+            <li>
+              <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+                <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+              </a>
+            </li>
+        {% endif %}
+
     </ul>
-</div>
