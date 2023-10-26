@@ -5,7 +5,12 @@
 layout: home
 ---
 
-<img src="/assets/Juste.jpg" height="400" width="399" align="center"/>
+<img id="profile" src="/assets/Juste.jpg" height="400" align="right"/>
+<style>
+img {
+  border-radius: 20%;
+}
+</style>
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
 <br/> Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/).
