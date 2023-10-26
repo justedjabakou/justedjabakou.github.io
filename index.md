@@ -8,7 +8,7 @@ layout: home
 <img id="profile" src="/assets/Juste.jpg" height="400" align="right"/>
 <style>
 img {
-  border-radius: 5%;
+  border-radius: 3%;
 }
 </style>
 
