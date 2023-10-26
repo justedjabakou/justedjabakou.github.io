@@ -9,9 +9,9 @@ layout: home
 <style>
 img {
   border-radius: 3%;
-  margin-bottom: 3cm;
-  margin-left: 3cm;
-  margin-right: 3cm;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 </style>
 
