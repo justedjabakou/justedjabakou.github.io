@@ -10,7 +10,7 @@ layout: home
 img {
   border-radius: 3%;
   margin-bottom: 1em;
-  margin-left: 2em;
+  margin-left: 4em;
   margin-right: 0.5em;
 }
 </style>
