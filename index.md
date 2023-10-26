@@ -11,7 +11,7 @@ img {
   border-radius: 3%;
   margin-bottom: 1em;
   margin-left: 4em;
-  margin-right: 0.5em;
+  margin-right: 1em;
 }
 </style>
 
