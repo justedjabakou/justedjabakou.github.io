@@ -9,6 +9,7 @@ layout: home
 <style>
 img {
   border-radius: 3%;
+  margin-bottom: 30cm;
 }
 </style>
 
