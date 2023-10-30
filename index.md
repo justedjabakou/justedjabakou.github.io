@@ -30,8 +30,9 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 > ##### __Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023.__   
 
-> ##### __Co-organized:__ 1st CIREQ Interdisciplinary Conference on Big Data and AI. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
+> ##### __Co-organized:__ 1st CIREQ Interdisciplinary Conference on Big Data and AI. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn}
 
+<a href="javascript:void(0)" class="button">Default Button</a>
 
 
 <!-- 
