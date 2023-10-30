@@ -37,12 +37,13 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
+<a href="#link" class="btn btn--success">Button name</a>
 
 
 
  
 
-<form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
+<form action="https://stackoverflow.com/" method="get" target="_blank"><button type="danger">Click me</button></form>
 
   
   <button type="button" class="btn btn-primary">Primary</button>
