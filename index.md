@@ -34,7 +34,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   
   
 
-
+<!--
 
 
 <a href="#link" class="btn btn--success">Button name</a>
@@ -53,7 +53,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   <button type="button" class="btn btn-primary">Primary</button>
   <button type="button" class="btn btn-success">Success</button>
  
-<!--
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <div class="container">
   <h2>Button Styles</h2>
