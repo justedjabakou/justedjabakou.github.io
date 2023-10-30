@@ -31,9 +31,9 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 > ##### __Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023.__   
 
 > ##### __Co-organized:__ 1st CIREQ Interdisciplinary Conference on Big Data and AI. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn-primary}
-
+  <button type="button" class="btn btn-primary">Primary</button>
+  <button type="button" class="btn btn-success">Success</button>
 <!--
-<a href="javascript:void(0)" class="button">Default Button</a>
 
 <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
 
@@ -44,8 +44,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   <h2>Button Styles</h2>
   <button type="button" class="btn">Basic</button>
   <button type="button" class="btn btn-default">Default</button>
-  <button type="button" class="btn btn-primary">Primary</button>
-  <button type="button" class="btn btn-success">Success</button>
+
   <button type="button" class="btn btn-info">Info</button>
   <button type="button" class="btn btn-warning">Warning</button>
   <button type="button" class="btn btn-danger">Danger</button>
@@ -54,6 +53,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 
 
+<a href="javascript:void(0)" class="button">Default Button</a>
 
 <blockquote>  <p align = "justify" style="font-size:88%; margin-top: -1em"> Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023. </p>
 </blockquote>
