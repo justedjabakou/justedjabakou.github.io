@@ -35,6 +35,9 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 <a href="javascript:void(0)" class="button">Default Button</a>
 
 
+{% include button.html button_name="My Button" button_class="primary" %}
+
+
 <!-- 
 
 <blockquote>  <p align = "justify" style="font-size:88%; margin-top: -1em"> Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023. </p>
