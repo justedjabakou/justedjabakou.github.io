@@ -34,9 +34,6 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 <a href="javascript:void(0)" class="button">Default Button</a>
 
-
-{% include button.html button_name="My Button" button_class="primary" %}
-
 <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
 
 
