@@ -35,6 +35,9 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   
 
 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
 
 
  
