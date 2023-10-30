@@ -32,6 +32,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 > ##### __Co-organized:__ 1st CIREQ Interdisciplinary Conference on Big Data and AI. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn}
 
+<!--
 <a href="javascript:void(0)" class="button">Default Button</a>
 
 <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
@@ -52,7 +53,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 </div>
 
 
-<!-- 
+
 
 <blockquote>  <p align = "justify" style="font-size:88%; margin-top: -1em"> Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023. </p>
 </blockquote>
