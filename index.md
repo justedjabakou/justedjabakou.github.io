@@ -35,10 +35,14 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   
 
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
 
 <a href="#link" class="btn btn--success">Button name</a>
 
+
+<center>
+<a href="#link" class="btn btn--success">Button name</a>
+</center>
 
 
  
@@ -50,7 +54,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
   <button type="button" class="btn btn-success">Success</button>
  
 <!--
-
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <div class="container">
   <h2>Button Styles</h2>
   <button type="button" class="btn">Basic</button>
