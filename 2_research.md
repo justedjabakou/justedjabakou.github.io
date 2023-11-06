@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 ---
 
-Working Papers
+### Working Papers
 -----------------
 <span style="color:#0077B3;"> <b>Debt Callability and Firm Dynamics</b></span>  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
@@ -18,7 +18,7 @@ Working Papers
 
 <br/><br/>
 
-Work in Progress
+### Work in Progress
 -----------------
 <span style="color:#0077B3;"> <b>Monetary Policy Narratives and House Price Expectations</b></span> 
 with [Firmin Ayivodji](https://firminayivodji.github.io/)  
@@ -32,11 +32,11 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)
 
 <br/><br/>
 
-Publications (Before Ph.D.)
+### Publications (Before Ph.D.)
 --------------
 <span style="color:#0077B3;"> <b>Twin Deficits : Empirical investigation for Togo</b></span>   
 *Forthcoming, 61st World Statistics Congress Proceedings*    
-[**PDF**](https://justedjabakou.github.io/pdfs/WSC2017_CPS132.pdf){: .btn .btn--myblue}
+[**PDF**](https://justedjabakou.github.io/assets/WSC2017_CPS132.pdf){: .btn .btn--myblue}
 <details style="padding-bottom:1px; margin-top: -1em; margin-bottom: -1.5em"><summary style="outline:none"><b style="font-size:90%;">Abstract</b></summary>
 <blockquote><p align = "justify" style="font-size:88%;  margin-top: 0.5em">
 This paper investigates the hypothesis of twin deficits in Togo. There is a great economic debate about the twin deficits hypothesis which indicates a positive relationship between the current account deficit and the fiscal deficit resulting from changes in tax revenues or government expenditures. The presence of this link is rarely tested for developing countries. To examine the twin deficits in Togo, I use a Vector AutoRegression (VAR) framework, based on time series from the period 1975-2015. I find a unidirectional causality from the fiscal deficit to the current account deficit and this reveals the presence of twin deficits in Togo and also conformity with the Keynesian approach (conventional view).
@@ -45,11 +45,11 @@ This paper investigates the hypothesis of twin deficits in Togo. There is a grea
 
 <br/><br/>
 
-Policy Papers
+### Policy Papers
 -----------------
 <span style="color:#0077B3;"> <b>Reformer l’Enseignement Technique et de la Formation Professionnelle pour l’Employabilite des Jeunes en Afrique</b></span>   
 *L'Afrique Des Idées*, 2018   
-[**PDF**](https://justedjabakou.github.io/pdfs/Rapport_Educ_Afrique_2018.pdf){: .btn .btn--myblue}
+[**PDF**](https://justedjabakou.github.io/assets/Rapport_Educ_Afrique_2018.pdf){: .btn .btn--myblue}
 <!-- .btn--success , .btn--danger, .btn--inverse, .btn--primary  , .btn--warning,  --> 
 <details style="padding-bottom:1px; margin-top: -1em" ><summary style="outline:none"><b style="font-size:90%;">Abstract</b></summary>
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> Étreintes par le sous-emploi et le chômage des jeunes, les économies africaines devront réinventer leur système éducatif. Si le débat n’est pas nouveau, notamment en ce qui concerne le rôle de l’éducation dans la formation du capital humain, ses termes devront avancer en incluant les spécificités de la formation professionnelle. Les structures des économies et les bouleversements externes repositionnent la question de la formation pour l’emploi dans un contexte totalement rénové où le privé, l’informel, le numérique ont une nouvelle résonance.  Bien entendu, le chômage des jeunes est sous tension, notamment parce que (i) un point de croissance économique ne génère que 0,4 point d’emplois en Afrique, (ii) moins de 16% des formations dans le supérieur constituent les formations dites « STEM», et (iii) seulement 15% du budget de l’éducation est consacré à la formation professionnelle. Cependant, la jeunesse la plus entreprenante du monde est en Afrique. Elle constitue 69% de la population, et ensemble avec le potentiel du numérique, offre des marges réelles de transformation de la dynamique de l’emploi en Afrique.
