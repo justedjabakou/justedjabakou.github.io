@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Working Papers
+### Work in Progress
 -----------------
 <span style="color:#0077B3;"> <b>Debt Callability and Firm Dynamics</b></span>  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
@@ -18,8 +18,6 @@ permalink: /research/
 
 <br/><br/>
 
-### Work in Progress
------------------
 <span style="color:#0077B3;"> <b>Monetary Policy Narratives and House Price Expectations</b></span> 
 with [Firmin Ayivodji](https://firminayivodji.github.io/)  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
