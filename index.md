@@ -16,7 +16,7 @@ img {
 </style>
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
-<br/> Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/).
+<br/> <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
 
 
 <br/> My works focus on the implications of firm heterogeneity for the macroeconomy.   <!--  and interactions with the financial sector. -->    
