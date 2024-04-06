@@ -26,15 +26,16 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
 
 <br/><br/>
-<span style="color:#9E0B00;">**More recent** </span>
+<span style="color:#9E0B00;">**Upcoming** </span>
+
+> ##### __58th Annual Meetings of the Canadian Economics Association, 30 May - June 01, 2024.__   
+  
+
+<!--
 
 > ##### __Dissertation Fellowship, Federal Reserve Bank of St. Louis. Summer 2023.__   
 
 > ##### __Co-organized:__ 1st CIREQ Interdisciplinary Conference on Big Data and AI. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn-primary}
-  
-  
-
-<!--
 
 
 <a href="#link" class="btn btn--success">Button name</a>
