@@ -27,7 +27,8 @@ Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023
 Excellence Ph.D. Fellowship, FRQSC. 2022 - present. <!-- Fonds de Recherche du Quebec - Société et Culture -->
 
 ### Conferences and Seminars  
-2023: St. Louis Fed, CEA
+2024: CEA (Toronto)  
+2023: St. Louis Fed, CEA (Winnipeg)  
 2022: SCSE, U. Montreal
 
 ### Conferences co-organized
