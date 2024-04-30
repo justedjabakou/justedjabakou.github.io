@@ -6,7 +6,7 @@ permalink: /teaching
 
 ### <span style="color:#00949E;">Université de Montréal</span>
 **Lecturer**  
-Introduction to Macroeconomics (undergraduate) - Fall 2021.
+Introduction to Macroeconomics (undergraduate) - Fall 2021, Summer 2024.
 
 **Teaching Assistant**  
 Numerical Analysis in Economics (PhD & Msc) - Winter 2022.  
