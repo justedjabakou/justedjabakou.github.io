@@ -26,7 +26,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
 
 <br/><br/>
-<span style="color:#9E0B00;">**Upcoming** </span>
+<span style="color:#9E0B00;">**Recent** </span>
 
 > ##### __58th Annual Meetings of the Canadian Economics Association, 30 May - June 01, 2024.__   
   
