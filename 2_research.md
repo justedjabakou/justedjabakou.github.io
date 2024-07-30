@@ -8,7 +8,7 @@ permalink: /research/
 -----------------
 <span style="color:#0077B3;"> <b>Debt Callability and Firm Dynamics</b></span>  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
-<!--<span class="small"> February 2024 </span> -->   
+<!--<span class="small"> February 2024 </span> -->
 <!--  [**Draft**](https://justedjabakou.github.io/pdfs/DebtCallability_FirmDynamics_JD_recent.pdf){: .btn .btn--inverse} -->  <!-- [**Slides**](){: .btn .btn--linkedin}  -->
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> Callable debts have reached a high share in corporate finance structure in the U.S. debt market. This paper studies the dynamic interplay between corporate bond callability and firm decisions. Using a comprehensive dataset spanning both firm and bond-level data, it unveils that small firms with constrained liquidity and lower credit ratings are more inclined to issue callable bonds. I develop a quantitative firm-dynamics model to jointly study firms' investment choices, callable debt composition, and decisions on calling bonds early. I show that callable bonds are favored by smaller, less productive firms due to their potential to enhance issuer value and mitigate default risk. As firms grow, the propensity to issue and call these bonds decreases. The study further demonstrates that callable bonds provide firms with strategic flexibility to refinance, particularly when interest rates decline, thereby underscoring the nuanced impact of callable debt on corporate finance and the macroeconomy.
 </p></blockquote>
@@ -21,7 +21,6 @@ permalink: /research/
 with [Firmin Ayivodji](https://firminayivodji.github.io/)  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
 <!--<span class="small"> October 2023 </span> -->
-
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> This paper examines the impact of Central Bank narratives on house price expectations using a unique dataset from three different textual sources: direct central bank communication (monetary policy reports and speeches), newspaper articles, and Twitter posts. Leveraging advanced computational linguistics and machine learning techniques, we analyze the narrative tone in monetary policy reports, speeches, news articles, and tweets related to the monetary policy decisions of the Bank of Canada (BoC). Our findings reveal that narrative sentiment expressed in these sources significantly shapes expectations for future house prices. Furthermore, we observe that sentiment related to credit, financial conditions, and housing narratives holds considerable predictive power in shaping house price expectations. Additionally, we employ deep learning methods to extract information specifically related to the forward-looking aspects of sentiment in monetary policy narratives. These results highlight the pronounced impact of forward-looking narrative sentiment on house price expectations. The study suggests that social and news media can serve as valuable tools for central banks in managing economic expectations, with significant implications for the housing market.
 </p></blockquote>
