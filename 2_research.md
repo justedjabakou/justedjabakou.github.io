@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Work in Progress
 -----------------
-<span style="color:#0077B3;"> <b>Debt Callability and Firm Dynamics</b></span>  
+<span style="color:#0077B3;"> <b>1. Debt Callability and Firm Dynamics</b></span>  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
 <!--<span class="small"> February 2024 </span> -->
 <!--  [**Draft**](https://justedjabakou.github.io/pdfs/DebtCallability_FirmDynamics_JD_recent.pdf){: .btn .btn--inverse} -->  <!-- [**Slides**](){: .btn .btn--linkedin}  -->
@@ -17,7 +17,7 @@ permalink: /research/
 
 <br/><br/>
 
-<span style="color:#0077B3;"> <b>Monetary Policy Narratives and House Price Expectations</b></span> 
+<span style="color:#0077B3;"> <b>2. Monetary Policy Narratives and House Price Expectations</b></span> 
 with [Firmin Ayivodji](https://firminayivodji.github.io/)  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
 <!--<span class="small"> October 2023 </span> -->
@@ -27,7 +27,7 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)
 
 <br/><br/>
 
-<span style="color:#0077B3;"> <b>Inside the Non-Compete Agreements Damages in the U.S.</b></span> 
+<span style="color:#0077B3;"> <b>3. Inside the Non-Compete Agreements Damages in the U.S.</b></span> 
 with [Firmin Ayivodji](https://firminayivodji.github.io/)  and [Felicien Goudou](https://www.jesugogoudou.me/)  
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
@@ -38,7 +38,7 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)  and [Felicien Goudou]
 
 <br/><br/>
 
-<span style="color:#0077B3;"> <b>Seniority Structure in Macroeconomics</b></span> 
+<span style="color:#0077B3;"> <b>4. Seniority Structure in Macroeconomics</b></span> 
 
 <br/><br/>
 
