@@ -18,7 +18,7 @@ permalink: /research/
 <br/><br/>
 
 <span style="color:#0077B3;"> <b>2. Monetary Policy Narratives and House Price Expectations</b></span> 
-with [Firmin Ayivodji](https://firminayivodji.github.io/)  
+with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF)    
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -28,7 +28,7 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)
 <br/><br/>
 
 <span style="color:#0077B3;"> <b>3. Inside the Non-Compete Agreements Damages in the U.S.</b></span> 
-with [Firmin Ayivodji](https://firminayivodji.github.io/)  and [Felicien Goudou](https://www.jesugogoudou.me/)  
+with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Goudou](https://www.jesugogoudou.me/)  (Wayne state U.)
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
