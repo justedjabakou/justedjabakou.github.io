@@ -46,6 +46,34 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
 
 <br/>
 
+<p align="center">
+    <img src="/assets/NCA/topic_New_Job.png" alt="New Job Opportunity" width="300px"><br>
+    <span style="font-size:80%;"><em>(a) New Job Opportunity</em></span>
+</p>
+
+<p align="center">
+    <img src="/assets/NCA/topic_Empl_Mob.png" alt="Employee Mobility Restriction" width="300px"><br>
+    <span style="font-size:80%;"><em>(b) Employee Mobility Restriction</em></span>
+</p>
+
+<p align="center">
+    <img src="/assets/NCA/topic_Health_Empl.png" alt="Health Employees" width="300px"><br>
+    <span style="font-size:80%;"><em>(c) Health Employees</em></span>
+</p>
+
+<p align="center">
+    <img src="/assets/NCA/topic_Family_Const.png" alt="Family Constraint" width="300px"><br>
+    <span style="font-size:80%;"><em>(d) Family Constraint</em></span>
+</p>
+
+<p align="justify" style="font-size:85%; margin-top: 1em; margin-bottom: 1em;">
+    <b>Notes:</b> These are the top 50 words of 4 out of 20 topics computed using LDA with 
+    <em>α = 1.42</em> and <em>β = 0.004</em> for the entire sample until February 2023. 
+    The size of a term represents its probability within a given topic. The position conveys no information. 
+    A list of the 20 topics is exhibited in Appendix Table I.1.
+</p>
+
+
 
 <br/><br/>
 
