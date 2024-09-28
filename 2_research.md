@@ -25,6 +25,20 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> This paper examines the impact of Central Bank narratives on house price expectations using a unique dataset from three different textual sources: direct central bank communication (monetary policy reports and speeches), newspaper articles, and Twitter posts. Leveraging advanced computational linguistics and machine learning techniques, we analyze the narrative tone in monetary policy reports, speeches, news articles, and tweets related to the monetary policy decisions of the Bank of Canada (BoC). Our findings reveal that narrative sentiment expressed in these sources significantly shapes expectations for future house prices. Furthermore, we observe that sentiment related to credit, financial conditions, and housing narratives holds considerable predictive power in shaping house price expectations. Additionally, we employ deep learning methods to extract information specifically related to the forward-looking aspects of sentiment in monetary policy narratives. These results highlight the pronounced impact of forward-looking narrative sentiment on house price expectations. The study suggests that social and news media can serve as valuable tools for central banks in managing economic expectations, with significant implications for the housing market.
 </p></blockquote>
 
+<br/><br/>
+
+<span style="color:#0077B3;"> <b>Inside the Non-Compete Agreements Damages in the U.S.</b></span> 
+with [Firmin Ayivodji](https://firminayivodji.github.io/)  and [Felicien Goudou](https://www.jesugogoudou.me/)  
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
+<!--<span class="small"> October 2023 </span> -->
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
+<blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> This paper examines the consequences of Non-Compete Agreements (NCAs) in the United States. The Federal Trade Commission (FTC) announced in January 2023 a project to ban NCAs. Using recent advanced artificial intelligence methods, we scraped data from online comments on this project. We combined it with tweets on this announcement to highlight the damaging effects of NCAs on individuals and the economy. Our results indicate that NCAs significantly impact mental health and contribute to family displacements. Additionally, the paper explores the impact of NCAs on worker mobility and the restriction of innovation and competition in the marketplace. This study also reveals that large firms should exploit NCAs to retain their high-paid employees, reducing the huge power imbalance in the labor market. The paper argues that NCAs effectively harm individual well-being and the economy and calls for reconsidering their use in the modern workforce.
+</p></blockquote>
+
+
+<br/><br/>
+
+<span style="color:#0077B3;"> <b>Seniority Structure in Macroeconomics</b></span> 
 
 <br/><br/>
 
