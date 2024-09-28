@@ -58,7 +58,7 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
     <b>Notes:</b> These are the top 50 words of 4 out of 20 topics computed using LDA with 
     <em>α = 1.42</em> and <em>β = 0.004</em> for the entire sample until February 2023. 
     The size of a term represents its probability within a given topic. The position conveys no information. 
-    A list of the 20 topics is exhibited in Appendix Table I.1.
+    A list of the 20 topics is exhibited in Appendix Table I.1. of the paper.
 </p>
 
 
