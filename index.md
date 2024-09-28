@@ -28,7 +28,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 <br/><br/>
 <span style="color:#9E0B00;">**Recent** </span>
 
-> ##### __I am on the 2024/2025 Econ Job Market.__   
+> ##### __I am on the 2024/2025 Economics Job Market.__   
   
 
 <!--
