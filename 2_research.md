@@ -35,6 +35,17 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> This paper investigates the economic and social repercussions of Non-Compete Agreements (NCAs) in the United States. On January 5, 2023, the Federal Trade Commission's (FTC) proposal to ban NCAs intensified public debate, making it a timely and relevant topic of study. Leveraging cutting-edge natural language processing (NLP) techniques, we analyze a large dataset of public comments submitted to the FTC and social media posts related to the proposed NCA ban to provide a comprehensive picture of how NCAs affect individuals and the economy. Our findings suggest that NCAs exacerbate mental health issues and contribute to family dislocations, reducing overall well-being. Furthermore, we document that NCAs limit worker mobility, stifle innovation, and constrain labor market competition, leading to inefficiencies in resource allocation. These negative impacts are particularly pronounced for low-wage workers and employees in highly specialized industries. The paper also provides evidence that large firms strategically use NCAs to retain high-paid talent and reinforce labor market power imbalances. In light of these findings, we argue that NCAs pose significant harm to both individuals and the broader economy and advocate for a reassessment of their role in the modern workforce. Our study contributes to the ongoing policy discussion by highlighting the nuanced and often underrepresented effects of NCAs and their implications for labor market dynamics and economic growth.
 </p></blockquote>
 
+<br/>
+
+<p align="center">
+    <img src="/assets/NCA/topic_New_Job.png" alt="New Job Opportunity" width="250px">
+    <img src="/assets/NCA/topic_Empl_Mob.png" alt="Employee Mobility Restriction" width="250px">
+    <img src="/assets/NCA/topic_Health_Empl.png" alt="Health Employees" width="250px">
+    <img src="/assets/NCA/topic_Family_Const.png" alt="Family Constraint" width="250px">
+</p>
+
+<br/>
+
 
 <br/><br/>
 
