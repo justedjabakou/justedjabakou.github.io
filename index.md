@@ -25,9 +25,9 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
 
-<br/><br/>
+<!-- <br/> 
 <span style="color:#9E0B00;">**Recent** </span>
-
+-->
 > ##### __I am on the 2024/2025 Economics Job Market.__   
   
 
