@@ -39,6 +39,12 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/)  and [Felicien Goudou]
 <br/><br/>
 
 <span style="color:#0077B3;"> <b>4. Seniority Structure in Macroeconomics</b></span> 
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
+<!--<span class="small"> October 2023 </span> -->
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
+<blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> In this paper, I investigate the macroeconomic implications of introducing a seniority structure in firm debt within a dynamic business cycle model with defaultable long-term debt.
+</p></blockquote>
+
 
 <br/><br/>
 
