@@ -15,6 +15,8 @@ permalink: /cv/
 ### Work in progress
 Debt Callability and Firm Dynamics.  
 Monetary Policy Narratives and House Price Expectations, with [Firmin Ayivodji](https://firminayivodji.github.io/)   
+Inside the Non-Compete Agreements Damages in the U.S., with [Firmin Ayivodji](https://firminayivodji.github.io/) and [Felicien Goudou](https://www.jesugogoudou.me/)   
+Seniority Structure in Macroeconomics   
 
 ### Experience  
 Dissertation Fellow, Federal Reserve Bank of St. Louis, Summer 2023    
@@ -24,7 +26,7 @@ Health Data Analyst, ACONDA-VS, Abidjan. 2014. -->
   
 ### Selected Fellowships, Awards & Grants
 Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023     
-Excellence Ph.D. Fellowship, FRQSC. 2022 - present. <!-- Fonds de Recherche du Quebec - Société et Culture -->
+Excellence Ph.D. Fellowship, FRQSC. 2022 - 2024. <!-- Fonds de Recherche du Quebec - Société et Culture -->
 
 ### Conferences and Seminars  
 2024: CEA (Toronto)  
