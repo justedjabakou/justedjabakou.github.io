@@ -45,26 +45,24 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
 </p>
 
 <br/>
-
-<p align="center">
-    <img src="/assets/NCA/topic_New_Job.png" alt="New Job Opportunity" width="300px"><br>
-    <span style="font-size:80%;"><em>(a) New Job Opportunity</em></span>
-</p>
-
-<p align="center">
-    <img src="/assets/NCA/topic_Empl_Mob.png" alt="Employee Mobility Restriction" width="300px"><br>
-    <span style="font-size:80%;"><em>(b) Employee Mobility Restriction</em></span>
-</p>
-
-<p align="center">
-    <img src="/assets/NCA/topic_Health_Empl.png" alt="Health Employees" width="300px"><br>
-    <span style="font-size:80%;"><em>(c) Health Employees</em></span>
-</p>
-
-<p align="center">
-    <img src="/assets/NCA/topic_Family_Const.png" alt="Family Constraint" width="300px"><br>
-    <span style="font-size:80%;"><em>(d) Family Constraint</em></span>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 10px; text-align: center;">
+        <img src="/assets/NCA/topic_New_Job.png" alt="New Job Opportunity" width="300px"><br>
+        <span style="font-size:80%;"><em>(a) New Job Opportunity</em></span>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="/assets/NCA/topic_Empl_Mob.png" alt="Employee Mobility Restriction" width="300px"><br>
+        <span style="font-size:80%;"><em>(b) Employee Mobility Restriction</em></span>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="/assets/NCA/topic_Health_Empl.png" alt="Health Employees" width="300px"><br>
+        <span style="font-size:80%;"><em>(c) Health Employees</em></span>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="/assets/NCA/topic_Family_Const.png" alt="Family Constraint" width="300px"><br>
+        <span style="font-size:80%;"><em>(d) Family Constraint</em></span>
+    </div>
+</div>
 
 <p align="justify" style="font-size:85%; margin-top: 1em; margin-bottom: 1em;">
     <b>Notes:</b> These are the top 50 words of 4 out of 20 topics computed using LDA with 
