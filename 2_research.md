@@ -16,9 +16,12 @@ permalink: /research/
 </span> 
 
 <div style="text-align: center; margin-top: 20px;">
+    <span style="font-size:90%;"><b>Figure: Percentage of Callable Bonds by Year of Issuance</b></span>
     <img src="/assets/JMP/Fig_callable_share.png" alt="Percentage of Callable Bonds by Year of Issuance" width="700px"><br>
-    <span style="font-size:90%;"><em>Figure: Percentage of Callable Bonds by Year of Issuance</em></span>
 </div>
+<p align="justify" style="font-size:85%; margin-top: 1em; margin-bottom: 1em;">
+    <b>Notes:</b> This figure displays the percentage of bonds issued with a call option, regarding the number of bonds issued (blue) and the value issued (red). For each year of issuance, I compute these two prevalences. The shading bands indicate recession periods. The sample period is 1990Jan - 2018May.
+</p>
 
 <br/><br/>
 
@@ -39,8 +42,8 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> This paper investigates the economic and social repercussions of Non-Compete Agreements (NCAs) in the United States. On January 5, 2023, the Federal Trade Commission's (FTC) proposal to ban NCAs intensified public debate, making it a timely and relevant topic of study. Leveraging cutting-edge natural language processing (NLP) techniques, we analyze a large dataset of public comments submitted to the FTC and social media posts related to the proposed NCA ban to provide a comprehensive picture of how NCAs affect individuals and the economy. Our findings suggest that NCAs exacerbate mental health issues and contribute to family dislocations, reducing overall well-being. Furthermore, we document that NCAs limit worker mobility, stifle innovation, and constrain labor market competition, leading to inefficiencies in resource allocation. These negative impacts are particularly pronounced for low-wage workers and employees in highly specialized industries. The paper also provides evidence that large firms strategically use NCAs to retain high-paid talent and reinforce labor market power imbalances. In light of these findings, we argue that NCAs pose significant harm to both individuals and the broader economy and advocate for a reassessment of their role in the modern workforce. Our study contributes to the ongoing policy discussion by highlighting the nuanced and often underrepresented effects of NCAs and their implications for labor market dynamics and economic growth.
 </p></blockquote>
-<div style="text-align: center; font-weight: bold; font-size: 90%; margin-top: 100px;">
-    <b>Word Cloud across Key Topics in NCA ban debates</b>
+<div style="text-align: center; font-weight: bold; font-size: 90%; margin-top: 10px; margin-bottom: 1em;">
+    <b>Figure: Word Cloud across Key Topics in NCA ban debates</b>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
