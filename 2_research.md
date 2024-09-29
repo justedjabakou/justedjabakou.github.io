@@ -65,7 +65,7 @@ with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Go
     </div>
 </div>
 
-<div style="width: 640px; font-size:85%; margin-top: 1em; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: justify;">
+<div style="width: 600px; font-size:85%; margin-top: 1em; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: justify;">
     <b>Notes:</b> These are the top 50 words of 4 out of 20 topics computed using LDA with 
     <em>α = 1.42</em> and <em>β = 0.004</em> for the entire sample until February 2023. 
     The size of a term represents its probability within a given topic. The position conveys no information. 
