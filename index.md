@@ -10,19 +10,22 @@ layout: home
 <style>
   .profile-image {
     border-radius: 3%;
-    margin: 1em 1em 1em 4em;
+    margin: 1em 1em 1em 4em; /* Desktop spacing */
+    float: right;
   }
-  
+
   @media (max-width: 768px) { /* For mobile view */
     .profile-image {
+      float: none; /* Remove float */
       display: block;
       margin: 1em auto; /* Center the image */
     }
-    p {
-      text-align: center;
+    p, .research-interests {
+      text-align: center; /* Center the text for mobile */
     }
   }
 </style>
+
 
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).   
