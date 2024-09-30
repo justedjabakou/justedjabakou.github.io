@@ -39,9 +39,7 @@ My **research interests** are in:
 > ##### __I will be on the 2024-2025 Academic Job Market.__
 
 My research examines how callable debt and seniority structures shape firm decisions and their macroeconomic implications.  
-I also use advanced AI techniques to explore the effects of:
-1. monetary policy narratives on house price expectations;
-2. non-compete agreements on economic outcomes.
+I also use advanced AI techniques to explore the effects of monetary policy narratives, and non-compete agreements on economic outcomes.
 
 
 <!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
