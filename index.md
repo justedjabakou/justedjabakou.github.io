@@ -21,8 +21,13 @@ My research interests are in:
 - Macroeconomics
 - Finance
 - Firm Dynamics
-> ##### __I will be on the 2024-2025 Academic Job Market.__   
-<br/> My works focus on the implications of firm heterogeneity for the macroeconomy.   <!--  and interactions with the financial sector. -->    
+> ##### __I will be on the 2024-2025 Academic Job Market.__
+
+My research focuses on the dynamics of firm financing and investment decisions, with a particular emphasis on the role of callable debt and seniority structure in influencing credit markets and macroeconomic stability. I also explore the intersection of monetary policy narratives and house price expectations using advanced data techniques, and the economic impact of non-compete agreements in the labor market.
+
+
+<!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
+<!--  and interactions with the financial sector. -->    
 
 
 
