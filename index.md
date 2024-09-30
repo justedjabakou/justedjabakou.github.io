@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img id="profile" src="/assets/Juste.jpg" height="400" align="right"/>
+<img id="profile" src="/assets/Juste.jpg" height="370" align="right"/>
 <style>
 img {
   border-radius: 3%;
@@ -16,11 +16,14 @@ img {
 </style>
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
-<br/> <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
-
-
+<!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
+My research interests are in:
+- Macroeconomics
+- Finance
+- Firm Dynamics
+> ##### __I will be on the 2024-2025 Academic Job Market.__   
 <br/> My works focus on the implications of firm heterogeneity for the macroeconomy.   <!--  and interactions with the financial sector. -->    
-**Research Interest:** Macroeconomics, Finance, and Firm Dynamics
+
 
 
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
@@ -28,7 +31,7 @@ I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.um
 <!-- <br/> 
 <span style="color:#9E0B00;">**Recent** </span>
 -->
-> ##### __I am on the 2024/2025 Economics Job Market.__   
+
   
 
 <!--
