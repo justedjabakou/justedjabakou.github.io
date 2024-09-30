@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img id="profile" src="/assets/Juste.jpg" height="370" align="center"/>
+<img id="profile" src="/assets/Juste.jpg" height="370" align="justify"/>
 <!-- <style>
 img {
   border-radius: 3%;
@@ -25,7 +25,8 @@ My **research interests** are in:
 
 > ##### __I will be on the 2024-2025 Academic Job Market.__
 
-<p align="justify"> My research examines how callable debt and seniority structures shape firm decisions and their macroeconomic implications. I also explore the effects of monetary policy narratives and non-compete agreements on economic outcomes.</p>
+<p align="justify"> My research examines how callable debt and seniority structures shape firm decisions and their macroeconomic implications.
+  I also explore the effects of monetary policy narratives and non-compete agreements on economic outcomes.</p>
 
 
 <!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
