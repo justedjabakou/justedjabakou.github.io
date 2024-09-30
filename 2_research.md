@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-### Work in Progress
+### Job Market Paper
 -----------------
-<span style="color:#0077B3;"> <b>1. Debt Callability and Firm Dynamics [JMP]</b></span>  
+<span style="color:#0077B3;"> <b>1. Debt Callability and Firm Dynamics</b></span>  
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
 <!--<span class="small"> February 2024 </span> -->
 <!--  [**Draft**](https://justedjabakou.github.io/pdfs/DebtCallability_FirmDynamics_JD_recent.pdf){: .btn .btn--inverse} -->  <!-- [**Slides**](){: .btn .btn--linkedin}  -->
@@ -25,6 +25,8 @@ permalink: /research/
 
 <br/><br/>
 
+### Work in Progress
+-----------------
 <span style="color:#0077B3;"> <b>2. Monetary Policy Narratives and House Price Expectations</b></span> 
 with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF)    
 <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  
