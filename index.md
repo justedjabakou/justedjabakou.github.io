@@ -6,15 +6,25 @@ layout: home
 ---
 
 <img id="profile" src="/assets/Juste.jpg" height="300" align="right"/>
-<!-- <style>
-img {
-  border-radius: 3%;
-  margin-bottom: 1em;
-  margin-left: 4em;
-  margin-right: 1em;
-}
+<img id="profile" src="/assets/Juste.jpg" height="370" class="profile-image" align="right"/>
+
+<style>
+  .profile-image {
+    border-radius: 3%;
+    margin: 1em 1em 1em 4em;
+  }
+  
+  @media (max-width: 768px) { /* For mobile view */
+    .profile-image {
+      display: block;
+      margin: 1em auto; /* Center the image */
+    }
+    p {
+      text-align: center;
+    }
+  }
 </style>
--->
+
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).   
 <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
