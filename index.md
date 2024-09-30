@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img id="profile" src="/assets/Juste.jpg" height="370" align="right"/>
+<img id="profile" src="/assets/Juste.jpg" height="370" align="center"/>
 <style>
 img {
   border-radius: 3%;
@@ -17,7 +17,7 @@ img {
 
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
 <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
-My research interests are in:
+My **research interests** are in:
 - Macroeconomics
 - Finance
 - Firm Dynamics
