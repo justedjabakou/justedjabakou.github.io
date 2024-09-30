@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img id="profile" src="/assets/Juste.jpg" height="370" class="profile-image" align="right"/>
+<img id="profile" src="/assets/Juste.jpg" height="320" class="profile-image" align="right"/>
 
 <style>
   .profile-image {
