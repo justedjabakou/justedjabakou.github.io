@@ -20,7 +20,7 @@ permalink: /research/
     <img src="/assets/JMP/Fig_callable_share.png" alt="Percentage of Callable Bonds by Year of Issuance" width="500px"><br>
 </div>
 <div style="width: 500px; font-size:85%; margin-top: 1em; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: justify;">
-    <b>Notes:</b> This figure displays the percentage of bonds issued with a call option, regarding the number of bonds issued (blue) and the value issued (red). For each year of issuance, I compute these two prevalences. The shading bands indicate recession periods. The sample period is 1990Jan - 2018May.
+    <b>Notes:</b> This figure displays the percentage of bonds issued with a call option, regarding the number of bonds issued (blue) and the value issued (red).
 </div>
 
 <br/><br/>
