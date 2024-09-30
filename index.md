@@ -15,15 +15,16 @@ img {
 }
 </style>
 
-I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).
+I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).   
 <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
 My **research interests** are in:
 - Macroeconomics
 - Finance
 - Firm Dynamics
+
 > ##### __I will be on the 2024-2025 Academic Job Market.__
 
-My research focuses on the dynamics of firm financing and investment decisions, with a particular emphasis on the role of callable debt and seniority structure in influencing credit markets and macroeconomic stability. I also explore the intersection of monetary policy narratives and house price expectations using advanced data techniques, and the economic impact of non-compete agreements in the labor market.
+<p align="justify"> My research examines how callable debt and seniority structures shape firm decisions and their macroeconomic implications. I also explore the effects of monetary policy narratives and non-compete agreements on economic outcomes.</p>
 
 
 <!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
