@@ -21,7 +21,8 @@ layout: home
       margin: 1em auto; /* Center the image */
     }
     p, .research-interests {
-      text-align: center; /* Center the text for mobile */
+      text-align: justify; /* Justify text for mobile */
+      margin: 0 1em; /* Add side margins */
     }
   }
 </style>
