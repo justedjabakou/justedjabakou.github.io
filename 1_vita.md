@@ -30,7 +30,7 @@ Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023
 Excellence Ph.D. Fellowship, FRQSC. 2022 - 2024. <!-- Fonds de Recherche du Quebec - Société et Culture -->
 
 ### Conferences and Seminars  
-2024: CEA (Toronto)  ; 2023: St. Louis Fed, CEA (Winnipeg) 
+2024: CEA (Toronto)  | 2023: St. Louis Fed, CEA (Winnipeg) | 2022: SCSE
 
 ### Conferences co-organized
 1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
