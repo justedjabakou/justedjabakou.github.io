@@ -7,6 +7,7 @@ permalink: /cv/
 
 {::options parse_block_html="true" /}
 
+[**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning} 
 ### Education  
 **Université de Montréal**, Ph.D Candidate in Economcs. 2019 - ongoing.  
 **ENSAE de Dakar**, M.Sc. in Statistics and Economics (Ingénieur Statisticien Economiste). 2016.   
@@ -26,14 +27,14 @@ Senior Economist, French Embassy in Sénégal, Dakar. 2016 - 2018.
 Health Data Analyst, ACONDA-VS, Abidjan. 2014. -->
   
 ### Selected Fellowships, Awards & Grants
-Dissertation Fellowship, Federal Reserve Bank of St. Louis, Summer 2023     
+Dissertation Fellowship, St. Louis Fed., Summer 2023     
 Excellence Ph.D. Fellowship, FRQSC. 2022 - 2024. <!-- Fonds de Recherche du Quebec - Société et Culture -->
 
 ### Conferences and Seminars  
 2024: CEA (Toronto)  | 2023: St. Louis Fed, CEA (Winnipeg) | 2022: SCSE
 
 ### Conferences co-organized
-1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence. 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
+1st CIREQ Interdisciplinary Conference on Big Data and AI, 2023. [link](https://cireqmontreal.com/en/1st-cireq-interdisciplinary-conference-on-big-data-and-artificial-intelligence/){: .btn .btn--myblue}
 
 ### Skills  
 Software & Prog.: MATLAB, Python, R, Stata, Fortran, VBA, LaTeX.  
