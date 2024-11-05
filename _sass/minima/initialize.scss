@@ -47,6 +47,8 @@ $on-large:         $on-laptop !default;
   color: if(lightness($color) > 50%, #000, #fff);
 }
 
+// Import buttons' CSS
+@import "minima/buttons"; // Your custom button CSS imported last
 
 // Import pre-styling-overrides hook and style-partials.
 @import
@@ -55,4 +57,3 @@ $on-large:         $on-laptop !default;
   "minima/layout",           // Defines structure and style based on CSS selectors.
   "minima/custom-styles"     // Hook to override existing styles.
 ;
-@import "minima/buttons"; // Your custom button CSS imported last
