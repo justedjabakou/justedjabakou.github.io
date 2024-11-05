@@ -6,6 +6,7 @@ description: ""
 linkedin_username: juste-djabakou
 github_username:  justedjabakou
 twitter_username: justejoseph
+googleanalytics: "G-VHESVBXSY6"
 # Build settings
 theme: minima
 plugins:
@@ -86,7 +87,7 @@ plugins:
 #
 # show_excerpts: false
 
-googleanalytics: "G-VHESVBXSY6"
+
 
 # social links
 # rss: rss
