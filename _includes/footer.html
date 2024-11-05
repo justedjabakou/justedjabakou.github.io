@@ -15,9 +15,37 @@
       </div>
 
       <!-- Second Column: Social Media Links -->
-      <div class="footer-col author__urls-wrapper">
-        {%- include social.html -%}
+      <div class="footer-col">
+        <ul class="contact-list">
+          {%- if site.github_username -%}
+          <li>
+            <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}" class="social-link">
+              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+              {{ site.github_username | escape }}
+            </a>
+          </li>
+          {%- endif -%}
+      
+          {%- if site.linkedin_username -%}
+          <li>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}" class="social-link">
+              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+              {{ site.linkedin_username | escape }}
+            </a>
+          </li>
+          {%- endif -%}
+      
+          {%- if site.twitter_username -%}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username | cgi_escape | escape }}" class="social-link">
+              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+              {{ site.twitter_username | escape }}
+            </a>
+          </li>
+          {%- endif -%}
+        </ul>
       </div>
+
 
       <!-- Third Column: Address -->
       <div class="footer-col">
