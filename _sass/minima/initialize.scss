@@ -41,6 +41,8 @@ $on-large:         $on-laptop !default;
   font-size: #{$ratio}rem;
 }
 
+// To include the following mixin code, place your mixin definition in the initialize.scss file at the top, before any @import statements or references to mixins.
+// This ensures that when your other stylesheets import initialize.scss, they can access the mixins already defined.
 @mixin yiq-contrasted($color) {
   color: if(lightness($color) > 50%, #000, #fff);
 }
@@ -50,7 +52,6 @@ $on-large:         $on-laptop !default;
 @import
   "minima/custom-variables", // Hook to override predefined variables.
   "minima/base",             // Defines element resets.
-  //"minima/buttons",          // Defines element buttons.
   "minima/layout",           // Defines structure and style based on CSS selectors.
   "minima/custom-styles"     // Hook to override existing styles.
 ;
