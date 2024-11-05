@@ -41,6 +41,11 @@ $on-large:         $on-laptop !default;
   font-size: #{$ratio}rem;
 }
 
+@mixin yiq-contrasted($color) {
+  color: if(lightness($color) > 50%, #000, #fff);
+}
+
+
 // Import pre-styling-overrides hook and style-partials.
 @import
   "minima/custom-variables", // Hook to override predefined variables.
