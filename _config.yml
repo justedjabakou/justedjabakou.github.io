@@ -2,8 +2,9 @@ title: Juste Djabakou
 author:
   name: Juste Djabakou
   email: juste.djabakou@umontreal.ca
-  organisation: "U. of Montreal, Department of Economics"
-  address: "Pavillon Lionel-Groulx, 3150 rue Jean-Brillant, Montréal (QC), H3T 1N8"
+  building: "Pavillon Lionel-Groulx"
+  street: "3150 rue Jean-Brillant"
+  postal_code: "Montréal (QC), H3T 1N8"
 description: ""
 linkedin_username: juste-djabakou
 github_username:  justedjabakou
