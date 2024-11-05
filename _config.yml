@@ -1,5 +1,11 @@
 title: Juste Djabakou
-email: juste.djabakou@umontreal.ca
+author:
+  name: Juste Djabakou
+  email: juste.djabakou@umontreal.ca
+description: ""
+linkedin_username: juste-djabakou
+github_username:  justedjabakou
+twitter_username: justejoseph
 #author:
   #name: Juste Djabakou
   #email: juste.djabakou@umontreal.ca
@@ -30,7 +36,6 @@ email: juste.djabakou@umontreal.ca
       
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: ""
 #description: >
 #  Ph.D. Candidate, Economics. U. of Montreal.    
 #  Macroeconomics, Firm Dynamics, Finance.
@@ -71,9 +76,6 @@ minima:
 googleanalytics: "G-VHESVBXSY6"
 
 # social links
-linkedin_username: juste-djabakou
-github_username:  justedjabakou
-twitter_username: justejoseph
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
