@@ -1,8 +1,9 @@
 title: Juste Djabakou
-author:
-  name: Juste Djabakou
-  email: juste.djabakou@umontreal.ca
-  links:
+email: juste.djabakou@umontreal.ca
+#author:
+  #name: Juste Djabakou
+  #email: juste.djabakou@umontreal.ca
+  #links:
     #- label: "Université de Montréal"
      # icon: "fas fa-university"
       #url: "https://sceco.umontreal.ca/english/home/"
