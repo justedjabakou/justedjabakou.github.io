@@ -29,6 +29,7 @@ layout: home
 
 
 
+Hello,  
 I am a Ph.D. Candidate in Economics at [University of Montreal](https://sceco.umontreal.ca/english/home/) and a member of the [CIREQ](https://www.cireqmontreal.com/).   
 <!-- Fortunate to be advised by [Immo Schott](https://sites.google.com/site/immoschott/). -->
 My **research interests** are in:
@@ -36,10 +37,10 @@ My **research interests** are in:
 - Finance
 - Firm Dynamics
 
-> ##### __I will be on the 2024-2025 Academic Job Market.__
+> ##### __I am on the 2024-2025 Job Market.__
 
-My research examines how callable debt and seniority structures shape firm decisions and their macroeconomic implications.  
-I also use advanced AI techniques to explore the effects of monetary policy narratives, and non-compete agreements on economic outcomes.
+My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--warning}, "Debt Callability and Firm Dynamics," investigates how callable debt—a bond type allowing firms to redeem bonds before maturity—interacts with firms' decisions.  
+Find my [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}.  
 
 
 <!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
