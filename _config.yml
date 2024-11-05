@@ -27,23 +27,19 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
       
-
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Ph.D. Candidate, Economics. U. of Montreal.    
-  Macroeconomics, Firm Dynamics, Finance.
+#description: >
+#  Ph.D. Candidate, Economics. U. of Montreal.    
+#  Macroeconomics, Firm Dynamics, Finance.
 
 # Build settings
-
 theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # Theme-specific settings
-
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
