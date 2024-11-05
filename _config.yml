@@ -6,7 +6,7 @@ description: ""
 linkedin_username: juste-djabakou
 github_username:  justedjabakou
 twitter_username: justejoseph
-googleanalytics: "G-VHESVBXSY6"
+google_analytics: "G-VHESVBXSY6"
 # Build settings
 theme: minima
 plugins:
