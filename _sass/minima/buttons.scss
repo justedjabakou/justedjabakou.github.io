@@ -182,23 +182,6 @@ $intro-transition: intro 0.3s both !default;
     }
   }
 
-.btn--jmp {
-  background: linear-gradient(135deg, #007bb6, #00949e);
-  color: #fff;
-  padding: 0.6em 1.2em;
-  font-size: $type-size-4;
-  font-weight: bold;
-  border-radius: 12px;
-  border: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease-in-out;
-  
-  &:hover {
-    background: linear-gradient(135deg, #00949e, #007bb6);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-    transform: translateY(-2px);
-  }
-}
 
 
 
