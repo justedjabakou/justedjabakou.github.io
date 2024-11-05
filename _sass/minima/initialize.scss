@@ -45,7 +45,8 @@ $on-large:         $on-laptop !default;
 @import
   "minima/custom-variables", // Hook to override predefined variables.
   "minima/base",             // Defines element resets.
-  "buttons",          // Defines element buttons.
+  //"minima/buttons",          // Defines element buttons.
   "minima/layout",           // Defines structure and style based on CSS selectors.
   "minima/custom-styles"     // Hook to override existing styles.
 ;
+@import "minima/buttons"; // Your custom button CSS imported last
