@@ -2,6 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     <div class="footer-col-wrapper">
+      <!-- First Column: Author Information -->
       <div class="footer-col">
         <ul class="contact-list">
           {% if site.author.name %}
@@ -12,13 +13,17 @@
           {% endif %}
         </ul>
       </div>
+
+      <!-- Second Column: Social Media Links -->
       <div class="footer-col author__urls-wrapper">
         {%- include social.html -%}
       </div>
+
+      <!-- Third Column: Address -->
       <div class="footer-col">
-        <address>
-          {{ site.author.organization | escape }}, {{ site.author.address | escape }}
-        </address>
+        <p>{{ site.author.building | escape }}</p>
+        <p>{{ site.author.street | escape }}</p>
+        <p>{{ site.author.postal_code | escape }}</p>
       </div>
     </div>
   </div>
