@@ -1,9 +1,9 @@
-/* ==========================================================================
-   BUTTONS
+/* ========================================================================== 
+   BUTTONS 
    ========================================================================== */
 
-/* ==========================================================================
-   Colors and Variables
+/* ========================================================================== 
+   Colors and Variables 
    ========================================================================== */
 
 $gray: #7a8288 !default;
@@ -17,14 +17,17 @@ $info-color: #3b9cba !default;
 $myblue-color: #00949e !default;
 $linkedin-color: #007bb6 !default;
 
-/* ==========================================================================
-   Button Styles
+/* Add the missing definition for $sans-serif */
+$sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
+
+/* ========================================================================== 
+   Button Styles 
    ========================================================================== */
 .btn {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: $sans-serif;
+  font-family: $sans-serif; // Ensured $sans-serif is defined
   font-size: $type-size-7;
   font-weight: bold;
   text-align: center;
@@ -70,7 +73,6 @@ $linkedin-color: #007bb6 !default;
   display: block;
   width: 100%;
 }
-
 
 /* Special JMP Button */
 $jmp-color: #ff8c00; // Define a custom color for the JMP button
