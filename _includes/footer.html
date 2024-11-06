@@ -1,8 +1,7 @@
-<footer class="site-footer h-card" style="font-size: 0.5em;">
+<footer class="site-footer h-card" style="font-size: 52%;">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      
       <!-- First Column: Author Information -->
       <div class="footer-col">
         <ul class="contact-list">
@@ -14,7 +13,6 @@
           {% endif %}
         </ul>
       </div>
-
       <!-- Second Column: Social Media Links -->
       <div class="footer-col">
         <ul class="contact-list">
@@ -26,7 +24,6 @@
             </a>
           </li>
           {%- endif -%}
-
           {%- if site.linkedin_username -%}
           <li>
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}" class="social-link">
@@ -35,7 +32,6 @@
             </a>
           </li>
           {%- endif -%}
-
           {%- if site.twitter_username -%}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username | cgi_escape | escape }}" class="social-link">
@@ -46,14 +42,12 @@
           {%- endif -%}
         </ul>
       </div>
-
       <!-- Third Column: Address -->
       <div class="footer-col">
         <p style="margin: 0; line-height: 1.2;">{{ site.author.building | escape }}</p>
         <p style="margin: 0; line-height: 1.2;">{{ site.author.street | escape }}</p>
         <p style="margin: 0; line-height: 1.2;">{{ site.author.postal_code | escape }}</p>
       </div>
-      
     </div>
   </div>
 </footer>
