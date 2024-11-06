@@ -8,7 +8,7 @@ $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
-$jmp-color: #ff8c00 !default;
+$jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
 
 /* Styles de base des boutons */
 .btn {
@@ -16,14 +16,15 @@ $jmp-color: #ff8c00 !default;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
   font-family: $base-font-family; // Utilisation de $base-font-family de initialize.scss
-  font-size: $base-font-size * 1; // Correspond à $type-size-7
+  font-size: $base-font-size; // Taille de police standard
   font-weight: $base-font-weight;
   text-align: center;
   text-decoration: none;
   border-width: 0;
-  border-radius: $spacing-unit / 10; // Adapte $border-radius avec $spacing-unit
+  border-radius: 14px; // Fixe la valeur de border-radius
   cursor: pointer;
   transition: background-color 0.2s, color 0.2s;
+  white-space: nowrap; // Ajustement pour largeur en fonction du texte
 
   .icon {
     margin-right: 0.5em;
@@ -67,12 +68,13 @@ $jmp-color: #ff8c00 !default;
   color: #fff;
   border: 1px solid darken($jmp-color, 10%);
   padding: 0.5em 1em;
-  border-radius: $spacing-unit / 10; // Adapte $border-radius avec $spacing-unit
-  font-size: $base-font-size * 1; // Correspond à $type-size-5
+  border-radius: 14px; // Border-radius uniforme
+  font-size: $base-font-size;
   font-weight: $base-font-weight;
   text-align: center;
   cursor: pointer;
   text-decoration: none;
+  white-space: nowrap;
 
   &:hover {
     background-color: darken($jmp-color, 5%);
