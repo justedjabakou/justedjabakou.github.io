@@ -1,39 +1,27 @@
-/* ========================================================================== 
-   BUTTONS 
+/* ==========================================================================  
+   BUTTONS  
    ========================================================================== */
 
-/* ========================================================================== 
-   Colors and Variables 
-   ========================================================================== */
-
-$gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 40%) !default;
-$light-gray: mix(#fff, $gray, 50%) !default;
+/* Utilisation des variables définies dans initialize.scss */
 $primary-color: #007bb6 !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
-$myblue-color: #00949e !default;
-$linkedin-color: #007bb6 !default;
+$jmp-color: #ff8c00 !default;
 
-/* Add the missing definition for $sans-serif */
-$sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
-
-/* ========================================================================== 
-   Button Styles 
-   ========================================================================== */
+/* Styles de base des boutons */
 .btn {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: $sans-serif; // Ensured $sans-serif is defined
-  font-size: $type-size-7;
-  font-weight: bold;
+  font-family: $base-font-family; // Utilisation de $base-font-family de initialize.scss
+  font-size: $base-font-size * 0.6875; // Correspond à $type-size-7
+  font-weight: $base-font-weight;
   text-align: center;
   text-decoration: none;
   border-width: 0;
-  border-radius: $border-radius;
+  border-radius: $spacing-unit / 10; // Adapte $border-radius avec $spacing-unit
   cursor: pointer;
   transition: background-color 0.2s, color 0.2s;
 
@@ -45,15 +33,14 @@ $sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto",
     filter: brightness(90%);
   }
 
-  /* Button Color Variants */
+  /* Variantes de couleur */
   $buttoncolors: (
     primary: $primary-color,
     success: $success-color,
     warning: $warning-color,
     danger: $danger-color,
     info: $info-color,
-    myblue: $myblue-color,
-    linkedin: $linkedin-color
+    jmp: $jmp-color
   );
 
   @each $buttoncolor, $color in $buttoncolors {
@@ -68,23 +55,21 @@ $sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto",
   }
 }
 
-/* Block Button */
+/* Bouton en bloc */
 .btn--block {
   display: block;
   width: 100%;
 }
 
-/* Special JMP Button */
-$jmp-color: #ff8c00; // Define a custom color for the JMP button
-
+/* Bouton spécial JMP */
 .btn--jmp {
   background-color: $jmp-color;
   color: #fff;
   border: 1px solid darken($jmp-color, 10%);
   padding: 0.5em 1em;
-  border-radius: $border-radius;
-  font-size: $type-size-5;
-  font-weight: bold;
+  border-radius: $spacing-unit / 10; // Adapte $border-radius avec $spacing-unit
+  font-size: $base-font-size * 1.25; // Correspond à $type-size-5
+  font-weight: $base-font-weight;
   text-align: center;
   cursor: pointer;
   text-decoration: none;
