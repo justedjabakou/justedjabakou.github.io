@@ -13,22 +13,18 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
 /* Styles de base des boutons */
 .btn {
   display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
-  font-family: $base-font-family; // Utilisation de $base-font-family de initialize.scss
-  font-size: $base-font-size; // Taille de police standard
-  font-weight: $base-font-weight;
+  color: white;
+  padding: 7px 12px; // Espacement à l'intérieur des boutons
   text-align: center;
   text-decoration: none;
-  border-width: 0;
-  border-radius: 14px; // Fixe la valeur de border-radius
+  font-family: $base-font-family;
+  font-size: $base-font-size; // Taille de police
+  font-weight: $base-font-weight;
+  margin: 3px 2px; // Espacement autour des boutons
   cursor: pointer;
+  border-radius: 14px; // Bord arrondi
+  border: 1px solid transparent; // Bordure par défaut, ajustée avec les variantes
   transition: background-color 0.2s, color 0.2s;
-  white-space: nowrap; // Ajustement pour largeur en fonction du texte
-
-  .icon {
-    margin-right: 0.5em;
-  }
 
   &:hover {
     filter: brightness(90%);
@@ -48,6 +44,7 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
     &--#{$buttoncolor} {
       background-color: $color;
       color: #fff;
+      border-color: darken($color, 10%); // Ajuste la couleur de la bordure pour chaque bouton
 
       &:hover {
         background-color: mix(#000, $color, 15%);
@@ -60,24 +57,4 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
 .btn--block {
   display: block;
   width: 100%;
-}
-
-/* Bouton spécial JMP */
-.btn--jmp {
-  background-color: $jmp-color;
-  color: #fff;
-  border: 1px solid darken($jmp-color, 10%);
-  padding: 0.5em 1em;
-  border-radius: 14px; // Border-radius uniforme
-  font-size: $base-font-size;
-  font-weight: $base-font-weight;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
-  white-space: nowrap;
-
-  &:hover {
-    background-color: darken($jmp-color, 5%);
-    color: #fefefe;
-  }
 }
