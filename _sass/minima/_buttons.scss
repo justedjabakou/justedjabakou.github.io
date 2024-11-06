@@ -8,21 +8,20 @@ $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
-$jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
+$jmp-color: #00949E !default; // Updated color for the JMP button
 
 /* Styles de base des boutons */
 .btn {
   display: inline-block;
-  margin: 3px 2px; // Ajustement pour la marge
-  padding: 5px 8px; // Espacement intérieur réduit
+  margin: 3px 2px; // Adjusted margin for spacing around the button
+  padding: 5px 10px; // Reduced padding for less space inside the button
   font-family: $base-font-family;
-  font-size: 16px; // Taille de police fixée
+  font-size: $base-font-size;
   font-weight: $base-font-weight;
   text-align: center;
   text-decoration: none;
   border-width: 0;
-  border: 25px solid transparent; // Épaisseur de bordure similaire
-  border-radius: 14px; // Bordure arrondie
+  border-radius: 14px; // Consistent rounded corners
   cursor: pointer;
   transition: background-color 0.2s, color 0.2s;
   white-space: nowrap;
@@ -68,9 +67,9 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
   background-color: $jmp-color;
   color: #fff;
   border: 1px solid darken($jmp-color, 10%);
-  padding: 5px 8px; // Espacement intérieur réduit
+  padding: 5px 10px; // Reduced padding for the special JMP button as well
   border-radius: 14px;
-  font-size: 16px;
+  font-size: $base-font-size;
   font-weight: $base-font-weight;
   text-align: center;
   cursor: pointer;
