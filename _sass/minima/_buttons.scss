@@ -16,7 +16,7 @@ $jmp-color: #ff8c00 !default;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
   font-family: $base-font-family; // Utilisation de $base-font-family de initialize.scss
-  font-size: $base-font-size * 0.6875; // Correspond à $type-size-7
+  font-size: $base-font-size * 1; // Correspond à $type-size-7
   font-weight: $base-font-weight;
   text-align: center;
   text-decoration: none;
@@ -68,7 +68,7 @@ $jmp-color: #ff8c00 !default;
   border: 1px solid darken($jmp-color, 10%);
   padding: 0.5em 1em;
   border-radius: $spacing-unit / 10; // Adapte $border-radius avec $spacing-unit
-  font-size: $base-font-size * 1.25; // Correspond à $type-size-5
+  font-size: $base-font-size * 1; // Correspond à $type-size-5
   font-weight: $base-font-weight;
   text-align: center;
   cursor: pointer;
