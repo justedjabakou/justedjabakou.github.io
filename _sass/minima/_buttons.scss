@@ -13,18 +13,23 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
 /* Styles de base des boutons */
 .btn {
   display: inline-block;
-  color: white;
-  padding: 7px 12px; // Espacement à l'intérieur des boutons
+  margin: 3px 2px; // Ajustement pour la marge
+  padding: 5px 8px; // Espacement intérieur réduit
+  font-family: $base-font-family;
+  font-size: 16px; // Taille de police fixée
+  font-weight: $base-font-weight;
   text-align: center;
   text-decoration: none;
-  font-family: $base-font-family;
-  font-size: $base-font-size; // Taille de police
-  font-weight: $base-font-weight;
-  margin: 3px 2px; // Espacement autour des boutons
+  border-width: 0;
+  border: 25px solid transparent; // Épaisseur de bordure similaire
+  border-radius: 14px; // Bordure arrondie
   cursor: pointer;
-  border-radius: 14px; // Bord arrondi
-  border: 1px solid transparent; // Bordure par défaut, ajustée avec les variantes
   transition: background-color 0.2s, color 0.2s;
+  white-space: nowrap;
+
+  .icon {
+    margin-right: 0.5em;
+  }
 
   &:hover {
     filter: brightness(90%);
@@ -44,7 +49,6 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
     &--#{$buttoncolor} {
       background-color: $color;
       color: #fff;
-      border-color: darken($color, 10%); // Ajuste la couleur de la bordure pour chaque bouton
 
       &:hover {
         background-color: mix(#000, $color, 15%);
@@ -57,4 +61,24 @@ $jmp-color: #00949E !default; // Couleur mise à jour pour le bouton JMP
 .btn--block {
   display: block;
   width: 100%;
+}
+
+/* Bouton spécial JMP */
+.btn--jmp {
+  background-color: $jmp-color;
+  color: #fff;
+  border: 1px solid darken($jmp-color, 10%);
+  padding: 5px 8px; // Espacement intérieur réduit
+  border-radius: 14px;
+  font-size: 16px;
+  font-weight: $base-font-weight;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: darken($jmp-color, 5%);
+    color: #fefefe;
+  }
 }
