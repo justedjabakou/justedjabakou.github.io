@@ -39,7 +39,7 @@ My **research interests** are in:
 
 > ##### __I am on the 2024-2025 Job Market.__
 
-My [**JMP**](){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable bonds, which allow firms to repay debt early, interact with firms' choices.  
+My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable bonds, which allow firms to repay debt early, interact with firms' choices.  
 
 Find my [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}  
 
