@@ -37,7 +37,7 @@ My **research interests** are in:
 - Finance
 - Firm Dynamics
 
-> ##### __I am on the 2024-2025 Job Market.__
+<!--  ##### __I am on the 2024-2025 Job Market.__  -->
 
 My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable bonds, which allow firms to repay debt early, interact with firms' choices.  
 
