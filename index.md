@@ -38,17 +38,14 @@ My **research interests** are in:
 - Firm Dynamics
 
 <!--  ##### __I am on the 2024-2025 Job Market.__  -->
-
-My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable bonds, which allow firms to repay debt early, interact with firms' choices.  
-
-Find my [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}  
+<!--  My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable bonds, which allow firms to repay debt early, interact with firms' choices.  
+  -->
+<!--  Find my [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}  -->
+  
 
 
 <!-- <br/> My works focus on the implications of firm heterogeneity for the macroeconomy. -->  
 <!--  and interactions with the financial sector. -->    
-
-
-
 <!-- On this site you find my [**works**](/research){: .btn .btn--inverse} [**CV**](/cv){: .btn .btn--inverse} and other. -->
 
 <!-- <br/> 
