@@ -24,13 +24,12 @@ Inside the Non-Compete Agreements Damages in the U.S., with [Firmin Ayivodji](ht
 Dissertation Fellow, Federal Reserve Bank of St. Louis, Summer 2023    
 Senior Economist, French Embassy in Sénégal, Dakar. 2016 - 2018.  
 
-### Selected Fellowships, Awards & Grants
+### Selected Fellowships
 Dissertation Fellowship, St. Louis Fed., Summer 2023     
 Excellence Ph.D. Fellowship, FRQSC. 2022 - 2024. <!-- Fonds de Recherche du Quebec - Société et Culture -->
-<!-- 
-### Conferences and Seminars  
-2024: CEA (Toronto)  | 2023: St. Louis Fed, CEA (Winnipeg) | 2022: SCSE 
--->
+ 
+<!-- ### Conferences and Seminars  
+2024: CEA (Toronto)  | 2023: St. Louis Fed, CEA (Winnipeg) | 2022: SCSE -->
 
 <!-- ### Conferences co-organized
 1st CIREQ Interdisciplinary Conference on Big Data and AI, 2023. -->
