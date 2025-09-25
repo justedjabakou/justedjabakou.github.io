@@ -47,7 +47,7 @@ with [F. Ayivodji](https://firminayivodji.github.io/) (IMF)
 
 <br/><br/>
 <span style="color:#0077B3;"> <b>3. Inside the Non-Compete Agreements Damages in the U.S.</b></span> 
-with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF) and [Felicien Goudou](https://www.jesugogoudou.me/)  (Wayne State U.)
+with [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](https://www.jesugogoudou.me/)  (Wayne State U.)
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
