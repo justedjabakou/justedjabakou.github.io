@@ -16,11 +16,11 @@ permalink: /research/
 </span> 
 
 <div style="text-align: center; margin-top: 20px;">
-    <span style="font-size:90%;"><b>Figure: Percentage of Callable Bonds by Year of Issuance</b></span>
+    <span style="font-size:90%;"><b>Figure: Callable debt issuance over time</b></span>
     <img src="/assets/JMP/Fig_callable_share.png" alt="Percentage of Callable Bonds by Year of Issuance" width="500px"><br>
 </div>
 <div style="width: 500px; font-size:85%; margin-top: 1em; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: justify;">
-    <b>Notes:</b> This figure displays the percentage of bonds issued with a call option regarding the number of bonds issued (blue) and the value issued (red).
+    <b>Notes:</b> This figure illustrates the share of callable bonds issued over the years. I consider two versions of the contractual callable share, with the count version in gray and the amount version in red.
 </div>
 
 <br/><br/>
