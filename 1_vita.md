@@ -7,7 +7,8 @@ permalink: /cv/
 
 {::options parse_block_html="true" /}
 
-<!-- [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning} -->
+[**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}
+
 ### Education  
 **Université de Montréal**, Ph.D. Candidate in Economics. 2019 - ongoing.  
 **ENSAE de Dakar**, M.Sc. in Statistics and Economics (Ingénieur Statisticien Économiste). 2016.   
