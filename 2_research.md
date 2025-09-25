@@ -27,13 +27,15 @@ permalink: /research/
 
 ### Selected Work in Progress
 -----------------
-<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics.</b></span> with [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa)
+<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics.</b></span> With [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa)
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
 <blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> <b>Seniority</b> in debt contracts refers to the order of repayment in the event of a firm's default, where senior debt holders are paid before junior creditors. The seniority hierarchy in debt contracts is increasingly relevant in firm financing, yet its aggregate effects are largely understudied. This paper investigates the macroeconomic implications of introducing a seniority structure in firm debt within a dynamic business cycle model with defaultable long-term debt. I show that seniority structure is essential in mitigating the debt dilution problem, which arises when firms issue new debt that diminishes the value of existing claims, particularly in long-term debt markets. By prioritizing senior claims in case of default, firms can protect senior debt holders from dilution, leading to a more efficient credit allocation. My model demonstrates that seniority structure reduces risk premia on senior bonds, lowers firm leverage, and induces more stable investment patterns. Additionally, I provide empirical evidence using firm-level data that seniority structure is associated with lower default rates and reduced financial fragility, particularly during economic downturns. On the aggregate level, introducing seniority in firm debt smooths business cycle fluctuations, reduces macroeconomic volatility, and enhances financial stability.
 </p></blockquote>
 
+
+<br/><br/>
 <span style="color:#0077B3;"> <b>2. Financial Frictions, Intangible Capital, and the Business Cycle.</b></span> 
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
@@ -45,7 +47,7 @@ To interpret these patterns, I develop a heterogeneous-firm equilibrium model wi
 
 <br/><br/>
 <span style="color:#0077B3;"> <b>3. Monetary Policy Narratives and House Price Expectations.</b></span> 
-with [F. Ayivodji](https://firminayivodji.github.io/) (IMF)    
+With [F. Ayivodji](https://firminayivodji.github.io/) (IMF)    
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
