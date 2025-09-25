@@ -27,7 +27,7 @@ permalink: /research/
 
 ### Selected Work in Progress
 -----------------
-<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics.</b></span> With [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa)
+<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics</b></span>, with [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa).
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -46,8 +46,7 @@ To interpret these patterns, I develop a heterogeneous-firm equilibrium model wi
 
 
 <br/><br/>
-<span style="color:#0077B3;"> <b>3. Monetary Policy Narratives and House Price Expectations.</b></span> 
-With [F. Ayivodji](https://firminayivodji.github.io/) (IMF)    
+<span style="color:#0077B3;"> <b>3. Monetary Policy Narratives and House Price Expectations</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF).    
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -56,8 +55,7 @@ With [F. Ayivodji](https://firminayivodji.github.io/) (IMF)
 
 
 <br/><br/>
-<span style="color:#0077B3;"> <b>4. Inside the Non-Compete Agreements Damages in the U.S. </b></span> 
-With [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](https://www.jesugogoudou.me/)  (Wayne State U.)
+<span style="color:#0077B3;"> <b>4. Inside the Non-Compete Agreements Damages in the U.S.</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](https://www.jesugogoudou.me/)  (Wayne State U.).
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -93,8 +91,8 @@ With [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](http
 
 ### Publications (Before Ph.D.)
 --------------
-<span style="color:#0077B3;"> <b>Twin Deficits : Empirical investigation for Togo</b></span>   
-*Forthcoming, 61st World Statistics Congress Proceedings*    
+<span style="color:#0077B3;"> <b>Twin Deficits : Empirical investigation for Togo.</b></span>   
+*61st World Statistics Congress Proceedings, 2017*.    
 [**PDF**](https://justedjabakou.github.io/assets/WSC2017_CPS132.pdf){: .btn .btn--mybtn}
 <details style="padding-bottom:1px; margin-top: -1em; margin-bottom: -1.5em"><summary style="outline:none"><b style="font-size:90%;">Abstract</b></summary>
 <blockquote><p align = "justify" style="font-size:88%;  margin-top: 0.5em">
