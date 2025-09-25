@@ -27,7 +27,7 @@ permalink: /research/
 
 ### Selected Work in Progress
 -----------------
-<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics</b></span> 
+<span style="color:#0077B3;"> <b>1. Seniority Structure in Macroeconomics.</b></span> with [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa)
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -36,8 +36,8 @@ permalink: /research/
 
 
 <br/><br/>
-<span style="color:#0077B3;"> <b>2. Monetary Policy Narratives and House Price Expectations</b></span> 
-with [Firmin Ayivodji](https://firminayivodji.github.io/) (IMF)    
+<span style="color:#0077B3;"> <b>2. Monetary Policy Narratives and House Price Expectations.</b></span> 
+with [F. Ayivodji](https://firminayivodji.github.io/) (IMF)    
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
