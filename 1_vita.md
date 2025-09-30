@@ -16,7 +16,7 @@ permalink: /cv/
 
 ### Work in progress
 Debt Callability and Firm Dynamics    
-Seniority Structure in Macroeconomics, with [A. Ekponon](https://sites.google.com/site/adelpheekponon/)  
+Seniority Structure in Macroeconomics, with [A. Ekponon](https://sites.google.com/site/adelpheekponon/) and [H. Somé](https://www.usherbrooke.ca/recherche/fr/specialistes/details/yirlier.hyacinthe.some/) (USherbrooke)    
 Financial Frictions, Intangible Capital, and the Business Cycle  
 Monetary Policy Narratives and House Price Expectations, with [F. Ayivodji](https://firminayivodji.github.io/)   
 Inside the Non-Compete Agreements Damages in the U.S., with [F. Ayivodji](https://firminayivodji.github.io/) and [F. Goudou](https://www.jesugogoudou.me/)   
