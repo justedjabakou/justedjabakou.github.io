@@ -46,7 +46,16 @@ To interpret these patterns, I develop a heterogeneous-firm equilibrium model wi
 
 
 <br/><br/>
-<span style="color:#0077B3;"> <b>3. Monetary Policy Narratives and House Price Expectations</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF).    
+<span style="color:#0077B3;"> <b>3. Business Cycles, Competition, and Stock Returns</b></span>, with [A. Ekponon](https://sites.google.com/site/adelpheekponon/) (UOttawa) and [H. Somé](https://www.usherbrooke.ca/recherche/fr/specialistes/details/yirlier.hyacinthe.some/) (USherbrooke).
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
+<!--<span class="small"> October 2023 </span> -->
+<!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
+<blockquote><p align = "justify" style="font-size:88%; margin-top: 0.5em"> We investigate the competition-stock returns relationship in an economy in which a firm’s stock returns depend on macroeconomic risks, industry risk, and the heterogeneity (for example, the level of competition) between industries in their exposure to macroeconomic risk. Hence, the combined effects of time-varying conditions on the industry and firms’ returns are likely to bring some important contributions to the study of the relationship between competition and stock returns. In this study, we investigate how macroeconomic conditions influence the total stock returns of firms and their respective industries over time. By incorporating industry-specific characteristics such as competition levels into our framework, we aim to understand the relationship between competition and equity returns at both the firm and industry levels.
+</p></blockquote>
+
+
+<br/><br/>
+<span style="color:#0077B3;"> <b>4. Monetary Policy Narratives and House Price Expectations</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF).    
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
@@ -55,7 +64,7 @@ To interpret these patterns, I develop a heterogeneous-firm equilibrium model wi
 
 
 <br/><br/>
-<span style="color:#0077B3;"> <b>4. Inside the Non-Compete Agreements Damages in the U.S.</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](https://www.jesugogoudou.me/)  (Wayne State U.).
+<span style="color:#0077B3;"> <b>5. Inside the Non-Compete Agreements Damages in the U.S.</b></span>, with [F. Ayivodji](https://firminayivodji.github.io/) (IMF) and [F. Goudou](https://www.jesugogoudou.me/)  (Wayne State U.).
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span>  -->
 <!--<span class="small"> October 2023 </span> -->
 <!-- <span class="small" style="color:#9E0B00;"> <b>Updated draft coming soon</b> </span> -->
