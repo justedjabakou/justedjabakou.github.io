@@ -40,7 +40,7 @@ My **research interests** are in:
 **I am on the 2025-2026 Job Market.**   
 My [**JMP**](https://justedjabakou.github.io/assets/JMP/JMP_Djabakou.pdf){: .btn .btn--mybtn} **"Debt Callability and Firm Dynamics"** studies how callable debt, which allows firms to redeem debt early, interacts with firms' choices.  
 
-> ##### __I was recently a finalist (November 2025) for the Bank of Canada Graduate Student Paper Award, and a PhD Dissertation Fellow at the Federal Reserve Bank of St. Louis (Summer 2023).__
+> ##### I was recently a finalist (November 2025) for the Bank of Canada Graduate Student Paper Award, and a PhD Dissertation Fellow at the Federal Reserve Bank of St. Louis (Summer 2023).
   
 <!--  Find my [**CV**](https://justedjabakou.github.io/assets/CV_Djabakou.pdf){: .btn .btn--warning}  -->
   
