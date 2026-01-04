@@ -9,6 +9,7 @@ permalink: /teaching
 Introduction to Macroeconomics (undergraduate) - Fall 2021, Summer 2024, Summer 2025.
 
 **Teaching Assistant**  
+Macroeconomics B (PhD) - Winter 2026.  
 Numerical Analysis in Economics (PhD & Msc) - Winter 2022.  
 Macroeconomic Theory II (undergraduate) - Winter 2022.  
 Macroeconomic Theory I (undergraduate) - Fall 2021, Winter 2022, Fall 2024.  
