@@ -11,7 +11,7 @@ permalink: /
     <p class="home-intro home-intro-muted">My research is in macroeconomics, corporate finance, and firm dynamics. I study how the structure of corporate debt and firm financing shapes investment, default, and aggregate dynamics.</p>
   </div>
 
-  <img class="portrait" src="{{ '/assets/Juste.jpg' | relative_url }}" alt="Portrait of Juste Djabakou" width="2895" height="3427" decoding="async" fetchpriority="high">
+  <img class="portrait" src="{{ '/assets/Juste.jpg' | relative_url }}" alt="Portrait of Juste Djabakou" width="2895" height="3427" decoding="sync" fetchpriority="high">
 
   <section class="home-research section-block" aria-labelledby="home-research-title">
     <h2 id="home-research-title">Research</h2>
