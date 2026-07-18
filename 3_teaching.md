@@ -27,5 +27,3 @@ permalink: /teaching/
     <li>Data Analysis for Economists</li>
   </ul>
 </section>
-
-<p class="record-link"><a href="{{ '/cv/' | relative_url }}">Full teaching record in CV</a></p>
