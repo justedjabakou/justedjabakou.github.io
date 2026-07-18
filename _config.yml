@@ -1,0 +1,33 @@
+title: Juste Djabakou
+description: >-
+  Academic website of Juste Djabakou, Ph.D. Candidate in Economics at
+  Université de Montréal.
+url: "https://justedjabakou.github.io"
+lang: en
+
+author:
+  name: Juste Djabakou
+  email: juste.djabakou@umontreal.ca
+
+linkedin_username: juste-djabakou
+github_username: justedjabakou
+twitter_username: justejoseph
+
+google_analytics: "G-VHESVBXSY6"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - 2_research.md
+  - 1_vita.md
+  - 3_teaching.md
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - minima.gemspec

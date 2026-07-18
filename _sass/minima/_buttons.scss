@@ -1,0 +1,103 @@
+/* ==========================================================================  
+   BUTTONS  
+   ========================================================================== */
+
+/* Utilisation des variables définies dans initialize.scss */
+$primary-color: #007bb6 !default;
+$success-color: #3fa63f !default;
+$warning-color: #d67f05 !default;
+$danger-color: #ee5f5b !default;
+$info-color: #3b9cba !default;
+$jmp-color: #00949E !default; // Updated color for the JMP button
+
+/* Styles de base des boutons */
+.btn {
+  display: inline-block;
+  margin: 3px 2px; // Adjusted margin for spacing around the button
+  padding: 5px 10px; // Reduced padding for less space inside the button
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  font-weight: $base-font-weight;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid black; // Thick black border for all buttons
+  color: black; // Black text color for all buttons
+  border-radius: 14px; // Consistent rounded corners
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+  white-space: nowrap;
+
+  .icon {
+    margin-right: 0.5em;
+  }
+
+  &:hover {
+    filter: brightness(90%);
+  }
+
+  /* Variantes de couleur */
+  $buttoncolors: (
+    primary: $primary-color,
+    success: $success-color,
+    warning: $warning-color,
+    danger: $danger-color,
+    info: $info-color,
+    jmp: $jmp-color
+  );
+
+  @each $buttoncolor, $color in $buttoncolors {
+    &--#{$buttoncolor} {
+      background-color: $color;
+      color: black;
+
+      &:hover {
+        background-color: mix(#000, $color, 15%);
+      }
+    }
+  }
+}
+
+/* Bouton en bloc */
+.btn--block {
+  display: block;
+  width: 100%;
+}
+
+/* Bouton spécial JMP */
+.btn--jmp {
+  background-color: $jmp-color;
+  color: black;
+  border: 2px solid black;
+  padding: 5px 10px;
+  border-radius: 14px;
+  font-size: $base-font-size;
+  font-weight: $base-font-weight;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: darken($jmp-color, 5%);
+    color: #fefefe;
+  }
+}
+
+/* Nouveau Bouton mybtn avec border jmp-color */
+.btn--mybtn {
+  background-color: #ffe8ce;
+  color: black;
+  border: 2px solid $jmp-color; // Custom jmp-color border
+  padding: 5px 10px;
+  border-radius: 14px;
+  font-size: $base-font-size;
+  font-weight: $base-font-weight;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: darken(#ffe8ce, 5%);
+  }
+}

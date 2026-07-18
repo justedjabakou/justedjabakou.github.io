@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Juste Djabakou — Home">
+      Juste Djabakou
+    </a>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="nav-link{% if page.url == '/' %} is-active{% endif %}"
+         href="{{ '/' | relative_url }}"
+         {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+      <a class="nav-link{% if page.url == '/research/' %} is-active{% endif %}"
+         href="{{ '/research/' | relative_url }}"
+         {% if page.url == '/research/' %}aria-current="page"{% endif %}>Research</a>
+      <a class="nav-link{% if page.url == '/cv/' %} is-active{% endif %}"
+         href="{{ '/cv/' | relative_url }}"
+         {% if page.url == '/cv/' %}aria-current="page"{% endif %}>CV</a>
+      <a class="nav-link{% if page.url == '/teaching/' or page.url == '/teaching' %} is-active{% endif %}"
+         href="{{ '/teaching/' | relative_url }}"
+         {% if page.url == '/teaching/' or page.url == '/teaching' %}aria-current="page"{% endif %}>Teaching</a>
+    </nav>
+  </div>
+</header>
