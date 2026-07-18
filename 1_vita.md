@@ -6,9 +6,6 @@ permalink: /cv/
 
 <header class="page-heading compact-heading">
   <h1>CV</h1>
-  <div class="actions">
-    <a class="button button-primary" href="{{ '/assets/CV_Djabakou.pdf' | relative_url }}" target="_blank" rel="noreferrer">Full CV (PDF)</a>
-  </div>
 </header>
 
 <section class="cv-row">
