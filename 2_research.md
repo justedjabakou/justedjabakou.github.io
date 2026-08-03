@@ -41,7 +41,7 @@ permalink: /research/
       <p class="paper-meta">with <a href="https://sites.google.com/site/adelpheekponon/" target="_blank" rel="noreferrer">Adelphe Ekponon</a> and <a href="https://www.usherbrooke.ca/recherche/fr/specialistes/details/yirlier.hyacinthe.some" target="_blank" rel="noreferrer">Hyacinthe Somé</a></p>
       <details class="paper-details">
         <summary>Summary <span aria-hidden="true">+</span></summary>
-        <p>Long-term borrowing can dilute incumbent creditors. The project combines debt-rank data with a dynamic model to study repayment priority, investment, default, and aggregate propagation.</p>
+        <p>This paper studies how repayment priority shapes investment, default, and aggregate propagation when long-term borrowing can dilute incumbent creditors. We combine debt-rank data with a dynamic model of firms’ financing and investment decisions.</p>
       </details>
     </article>
 
@@ -50,7 +50,7 @@ permalink: /research/
       <h2>Financial Frictions, Intangible Capital, and the Business Cycle</h2>
       <details class="paper-details">
         <summary>Summary <span aria-hidden="true">+</span></summary>
-        <p>The project studies how downturns and credit tightening change the composition of firm investment through intangible exposure and funding capacity.</p>
+        <p>This paper studies how downturns and tighter credit conditions alter the composition of firm investment through differences in intangible exposure and funding capacity.</p>
       </details>
     </article>
 
@@ -60,7 +60,7 @@ permalink: /research/
       <p class="paper-meta">with <a href="https://sites.google.com/site/adelpheekponon/" target="_blank" rel="noreferrer">Adelphe Ekponon</a> and <a href="https://www.usherbrooke.ca/recherche/fr/specialistes/details/yirlier.hyacinthe.some" target="_blank" rel="noreferrer">Hyacinthe Somé</a></p>
       <details class="paper-details">
         <summary>Summary <span aria-hidden="true">+</span></summary>
-        <p>The project studies how product-market competition shapes firms’ aggregate-risk exposure and the cross-section of stock returns over the business cycle.</p>
+        <p>We study how product-market competition shapes firms’ exposure to aggregate risk and the cross-section of stock returns over the business cycle.</p>
       </details>
     </article>
   </section>
@@ -73,7 +73,7 @@ permalink: /research/
       <p class="paper-meta">with <a href="https://firminayivodji.github.io/" target="_blank" rel="noreferrer">Firmin Ayivodji</a></p>
       <details class="paper-details">
         <summary>Summary <span aria-hidden="true">+</span></summary>
-        <p>The project examines how central-bank communication, media coverage, and social-media narratives shape expectations about housing-market conditions.</p>
+        <p>We study how central-bank communication, media coverage, and social-media narratives shape expectations about housing-market conditions.</p>
       </details>
     </article>
 
@@ -83,7 +83,7 @@ permalink: /research/
       <p class="paper-meta">with <a href="https://firminayivodji.github.io/" target="_blank" rel="noreferrer">Firmin Ayivodji</a> and <a href="https://www.jesugogoudou.me/" target="_blank" rel="noreferrer">Félicien Goudou</a></p>
       <details class="paper-details">
         <summary>Summary <span aria-hidden="true">+</span></summary>
-        <p>The project uses public comments and online discussion to study the labor-market and welfare consequences associated with non-compete agreements.</p>
+        <p>We study the labor-market and welfare consequences of non-compete agreements using public comments and online discussions.</p>
       </details>
     </article>
   </section>
