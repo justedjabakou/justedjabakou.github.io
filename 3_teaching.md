@@ -4,26 +4,33 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<header class="page-heading">
+<header class="page-heading compact-heading">
   <h1>Teaching</h1>
   <p>Macroeconomics and quantitative methods at the undergraduate and graduate levels.</p>
 </header>
 
-<section class="teaching-row">
-  <p class="row-label">Lecturer</p>
-  <h2>Université de Montréal</h2>
-  <ul>
-    <li>Introduction to Macroeconomics · 2021, 2024, 2025</li>
-  </ul>
-</section>
+<div class="teaching-list">
+  <section class="teaching-row">
+    <p class="teaching-years">2021 · 2024 · 2025</p>
+    <div>
+      <p class="teaching-role">Lecturer · Université de Montréal</p>
+      <h2>Introduction to Macroeconomics</h2>
+      <p>Undergraduate</p>
+    </div>
+  </section>
 
-<section class="teaching-row">
-  <p class="row-label">Teaching Assistant</p>
-  <h2>Université de Montréal · Selected courses</h2>
-  <ul>
-    <li>Macroeconomics B · Ph.D.</li>
-    <li>Numerical Analysis in Economics · Ph.D. and M.Sc.</li>
-    <li>Macroeconomic Theory I and II</li>
-    <li>Data Analysis for Economists</li>
-  </ul>
-</section>
+  <section class="teaching-row">
+    <p class="teaching-years">Selected courses</p>
+    <div>
+      <p class="teaching-role">Teaching Assistant · Université de Montréal</p>
+      <h2>Macroeconomics B</h2>
+      <p>Ph.D.</p>
+      <h2>Numerical Analysis in Economics</h2>
+      <p>Ph.D. and M.Sc.</p>
+      <h2>Macroeconomic Theory I and II</h2>
+      <p>Undergraduate</p>
+      <h2>Data Analysis for Economists</h2>
+      <p>Undergraduate</p>
+    </div>
+  </section>
+</div>

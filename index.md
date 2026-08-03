@@ -13,16 +13,14 @@ permalink: /
 
   <img class="portrait" src="{{ '/assets/Juste.jpg' | relative_url }}" alt="Portrait of Juste Djabakou" width="2895" height="3427" decoding="sync" fetchpriority="high">
 
-  <section class="home-research section-block" aria-labelledby="home-research-title">
-    <h2 id="home-research-title">Research</h2>
-    <ul class="research-list">
-      <li><span>Debt Callability and Firm Dynamics</span><span>Job Market Paper</span></li>
-      <li><span>Seniority Structure in the Macroeconomy</span><span>Working Paper</span></li>
-      <li><span>Financial Frictions, Intangible Capital, and the Business Cycle</span><span>Working Paper</span></li>
-      <li><span>Business Cycles, Competition, and Stock Returns</span><span>Working Paper</span></li>
-    </ul>
-    <div class="actions">
-      <a class="button button-primary" href="{{ '/research/' | relative_url }}">View all research</a>
-    </div>
-  </section>
+  <div class="home-contact-action">
+    <p class="home-meta">
+      <span>Economics Department, Université de Montréal</span>
+      <span class="home-meta-separator" aria-hidden="true">·</span>
+      <a href="mailto:juste.djabakou@umontreal.ca">juste.djabakou@umontreal.ca</a>
+    </p>
+    <a class="button button-primary" href="{{ '/research/' | relative_url }}">
+      View research <span aria-hidden="true">→</span>
+    </a>
+  </div>
 </div>
