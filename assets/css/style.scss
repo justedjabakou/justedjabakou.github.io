@@ -722,8 +722,6 @@ h3,
 .brand-block { display: grid; gap: 3px; }
 .scg-logo-link { display: inline-flex; flex-shrink: 0; }
 .scg-logo { display: block; height: 32px; width: auto; }
-.site-address { color: var(--muted); font-size: 0.7rem; line-height: 1.25; text-decoration: none; }
-.site-address:hover { text-decoration: underline; }
 .home-meta { display: block; font-size: 0.8rem; line-height: 1.55; }
 .home-meta a { color: var(--accent); overflow-wrap: anywhere; }
 .paper-status { margin: 7px 0 0; font-size: 0.8rem; font-weight: 400; letter-spacing: 0; text-transform: none; }
