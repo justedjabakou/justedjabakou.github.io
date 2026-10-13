@@ -51,7 +51,7 @@
   var initialMatch = panels.some(function (panel) {
     return panel.getAttribute("data-research-panel") === initialPanel;
   });
-  selectTab(initialMatch ? initialPanel : "job-market-paper", false, false);
+  selectTab(initialMatch ? initialPanel : "working-papers", false, false);
 
   tabs.forEach(function (tab, index) {
     tab.addEventListener("click", function () {

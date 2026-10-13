@@ -10,19 +10,20 @@ permalink: /cv/
 
 <div class="cv-list">
   <section class="cv-row">
-    <p class="cv-label">Education</p>
+    <p class="cv-label">Appointments</p>
     <div class="cv-entries">
-      <p><strong>Université de Montréal</strong><span>Ph.D. Candidate in Economics</span></p>
-      <p><strong>ENSAE Dakar</strong><span>M.Sc. in Statistics and Economics</span></p>
-      <p><strong>ENSEA Abidjan</strong><span>M.Sc. in Applied Statistics</span></p>
+      <p><strong>Study Center Gerzensee</strong><span>Postdoctoral Research Associate · 2026–present</span></p>
+      <p><strong>Federal Reserve Bank of St. Louis</strong><span>Ph.D. Dissertation Fellow · 2023</span></p>
+      <p><strong>French Embassy in Senegal</strong><span>Senior Economist · 2016–2018</span></p>
     </div>
   </section>
 
   <section class="cv-row">
-    <p class="cv-label">Appointments</p>
+    <p class="cv-label">Education</p>
     <div class="cv-entries">
-      <p><strong>Federal Reserve Bank of St. Louis</strong><span>Ph.D. Dissertation Fellow · 2023</span></p>
-      <p><strong>French Embassy in Senegal</strong><span>Senior Economist · 2016–2018</span></p>
+      <p><strong>Université de Montréal</strong><span>Ph.D. in Economics · 2026</span></p>
+      <p><strong>ENSAE Dakar</strong><span>M.Sc. in Statistics and Economics</span></p>
+      <p><strong>ENSEA Abidjan</strong><span>M.Sc. in Applied Statistics</span></p>
     </div>
   </section>
 

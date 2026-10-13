@@ -4,12 +4,12 @@
 :root {
   --background: #ffffff;
   --surface: #ffffff;
-  --foreground: #232833;
-  --muted: #596275;
-  --border: #d9e0eb;
-  --accent: #1f5fc2;
-  --highlight: #e0782d;
-  --soft: #e2ecfb;
+  --foreground: #18232d;
+  --muted: #526170;
+  --border: #dce5ea;
+  --accent: #041f3d;
+  --highlight: #008bc8;
+  --soft: #e7f4fa;
 }
 
 * {
@@ -181,18 +181,18 @@ h3,
 .home-grid {
   min-height: 275px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
+  grid-template-columns: 220px minmax(0, 1fr);
   grid-template-rows: auto 1fr;
   align-items: start;
-  column-gap: 54px;
+  column-gap: 32px;
 }
 
 .home-copy {
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 1;
   padding-top: 4px;
-  color: var(--muted);
-  font-size: 0.94rem;
+  color: var(--foreground);
+  font-size: 1rem;
   line-height: 1.7;
 }
 
@@ -201,7 +201,7 @@ h3,
 }
 
 .home-intro + .home-intro {
-  margin-top: 15px;
+  margin-top: 18px;
 }
 
 .home-copy .home-intro:first-child {
@@ -210,7 +210,7 @@ h3,
 }
 
 .home-contact-action {
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 2;
   margin-top: 22px;
 }
@@ -233,7 +233,7 @@ h3,
 .portrait {
   width: 220px;
   height: 275px;
-  grid-column: 2;
+  grid-column: 1;
   grid-row: 1 / span 2;
   border: 1px solid var(--border);
   border-radius: 5px;
@@ -714,4 +714,29 @@ h3,
   *::after {
     transition-duration: 0.01ms !important;
   }
+}
+
+/* Gerzensee identity and the final compact paper layout. */
+.header-inner { min-height: 76px; }
+.header-identity { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.brand-block { display: grid; gap: 3px; }
+.scg-logo-link { display: inline-flex; flex-shrink: 0; }
+.scg-logo { display: block; height: 32px; width: auto; }
+.site-address { color: var(--muted); font-size: 0.7rem; line-height: 1.25; text-decoration: none; }
+.site-address:hover { text-decoration: underline; }
+.home-meta { display: block; font-size: 0.8rem; line-height: 1.55; }
+.home-meta a { color: var(--accent); overflow-wrap: anywhere; }
+.paper-status { margin: 7px 0 0; font-size: 0.8rem; font-weight: 400; letter-spacing: 0; text-transform: none; }
+.paper-tools { display: flow-root; margin-top: 12px; }
+.paper-tools .paper-status { float: left; margin: 0 16px 0 0; line-height: 1.65; }
+.paper-tools .paper-details { margin-top: 0; }
+.paper-details summary { display: inline-flex; align-items: baseline; width: auto; font-size: 0.82rem; line-height: 1.65; }
+.paper-details p { clear: both; }
+.footer-inner { min-height: 44px; padding-block: 9px; font-size: 0.7rem; line-height: 1.45; }
+.footer-links { flex-wrap: wrap; }
+
+@media (max-width: 680px) {
+  .header-inner { min-height: auto; }
+  .research-tab:last-child { grid-column: 1 / -1; border-right: 0; }
+  .research-tab:nth-child(2) { border-bottom: 1px solid var(--border); }
 }
