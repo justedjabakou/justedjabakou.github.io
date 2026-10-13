@@ -16,7 +16,7 @@ permalink: /
 
   <div class="home-contact-action">
     <p class="home-meta">
-      <a href="mailto:just.djabakou@szgerzensee.ch">just.djabakou@szgerzensee.ch</a>
+      <a href="mailto:juste.djabakou@szgerzensee.ch">juste.djabakou@szgerzensee.ch</a>
     </p>
     <a class="button button-primary" href="{{ '/research/' | relative_url }}">
       View research <span aria-hidden="true">→</span>
