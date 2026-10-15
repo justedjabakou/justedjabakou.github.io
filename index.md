@@ -8,8 +8,8 @@ permalink: /
 <div class="home-grid">
   <div class="home-copy">
     <p class="home-intro">I am a Postdoctoral Research Associate at the <a href="https://www.szgerzensee.ch/">Study Center Gerzensee</a>.</p>
-    <p class="home-intro">I received my Ph.D. in Economics from Université de Montréal.</p>
-    <p class="home-intro home-intro-muted">My research is in macroeconomics, corporate finance, and firm dynamics.</p>
+    <p class="home-intro">My research interests lie at the intersection of macroeconomics, finance, and firm dynamics.</p>
+    <p class="home-intro">I received my Ph.D. in Economics from Université de Montréal. Previously, I was a Ph.D. Dissertation Fellow at the Federal Reserve Bank of St. Louis.</p>
   </div>
 
   <img class="portrait" src="{{ '/assets/Juste.jpg' | relative_url }}" alt="Portrait of Juste Djabakou" width="2895" height="3427" decoding="sync" fetchpriority="high">
@@ -23,3 +23,4 @@ permalink: /
     </a>
   </div>
 </div>
+
